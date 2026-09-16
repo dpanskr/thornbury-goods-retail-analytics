@@ -1,0 +1,2461 @@
+customer_id,last_order_date,recency_days,frequency,monetary,acquisition_channel,customer_region
+1,2024-08-24,129,2,967.31,Direct,North West
+2,2023-11-04,423,1,427.86,Referral,Scotland
+4,2024-11-25,36,4,786.36,Organic Search,London
+5,2024-10-03,89,1,312.21,Paid Social,Scotland
+8,2024-12-18,13,3,1028.61,Organic Search,North West
+9,2024-12-10,21,2,278.09,Affiliate,London
+10,2024-11-27,34,3,2599.17,Email,North West
+13,2024-10-06,86,2,506.49,Organic Search,East of England
+14,2024-10-27,65,4,914.17,Paid Social,North West
+15,2024-12-16,15,4,1901.46,Email,North West
+16,2024-11-09,52,5,1627.66,Affiliate,East of England
+17,2024-11-25,36,3,332.89,Paid Social,South East
+18,2024-09-20,102,6,1746.39,Paid Social,South East
+19,2024-12-10,21,1,29.92,Paid Social,London
+20,2024-12-20,11,3,1255.34,Paid Social,East of England
+21,2024-11-10,51,4,1704.61,Organic Search,Wales
+22,2024-11-13,48,2,929.09,Paid Social,Scotland
+23,2024-09-28,94,5,738.05,Affiliate,South East
+25,2024-11-23,38,2,272.96,Direct,Wales
+26,2024-11-26,35,2,654.72,Email,London
+28,2024-02-24,311,2,1097.74,Referral,London
+29,2024-03-09,297,7,1821.74,Referral,West Midlands
+30,2024-09-15,107,1,754.28,Direct,West Midlands
+31,2024-02-25,310,2,433.47,Direct,East of England
+32,2024-10-14,78,4,943.2,Paid Social,South East
+33,2024-11-29,32,7,1113.44,Direct,London
+35,2024-02-14,321,3,717.56,Direct,London
+36,2024-12-09,22,1,237.56,Paid Social,East of England
+38,2024-09-28,94,4,1536.67,Paid Social,London
+39,2024-08-19,134,5,575.67,Organic Search,North West
+40,2024-12-30,1,4,2508.73,Direct,North West
+42,2024-04-06,269,2,422.17,Paid Social,South East
+43,2024-11-26,35,4,1397.21,Affiliate,London
+44,2024-09-09,113,2,359.35,Organic Search,London
+45,2024-12-22,9,1,295.29,Paid Social,London
+49,2024-12-21,10,2,2409.88,Paid Social,East of England
+50,2024-12-07,24,2,1643.23,Paid Social,North East
+51,2024-12-20,11,6,1298.41,Organic Search,South West
+52,2024-12-02,29,1,70.51,Paid Social,South East
+54,2024-12-17,14,2,301.94,Paid Social,Yorkshire
+55,2023-11-22,405,2,356.58,Organic Search,South East
+56,2024-12-10,21,2,1376.23,Paid Social,Yorkshire
+57,2024-09-18,104,3,335.17,Organic Search,South West
+58,2024-08-03,150,1,95.82,Email,Yorkshire
+59,2024-09-10,112,6,861.5,Organic Search,West Midlands
+61,2024-11-23,38,3,836.15,Email,South East
+62,2024-10-11,81,6,1229.45,Organic Search,London
+63,2024-12-05,26,1,188.51,Email,West Midlands
+64,2024-11-28,33,1,843.76,Paid Social,London
+65,2024-12-25,6,4,1726.62,Paid Social,Scotland
+66,2024-10-13,79,3,939.73,Direct,London
+67,2024-08-15,138,3,483.82,Paid Social,East of England
+69,2024-12-30,1,6,1208.56,Organic Search,Yorkshire
+70,2024-12-30,1,1,264.84,Paid Social,West Midlands
+72,2024-12-26,5,2,2655.2,Email,South West
+73,2024-10-10,82,3,725.62,Paid Social,London
+74,2024-12-17,14,2,627.63,Affiliate,South East
+75,2024-12-27,4,1,466.77,Referral,West Midlands
+76,2024-11-23,38,3,1361.63,Paid Social,North West
+77,2024-09-30,92,1,9.43,Organic Search,South East
+78,2024-11-21,40,1,774.3,Organic Search,East of England
+79,2024-12-03,28,2,1617.28,Paid Social,West Midlands
+80,2024-11-24,37,1,28.28,Paid Social,East of England
+81,2024-11-28,33,2,65.72,Affiliate,West Midlands
+82,2024-12-14,17,6,2062.99,Direct,London
+83,2024-12-08,23,5,655.37,Paid Social,London
+84,2023-11-26,401,4,823.77,Direct,London
+85,2024-10-05,87,4,1020.61,Paid Social,North West
+86,2024-11-26,35,5,1956.8,Organic Search,Wales
+87,2024-12-19,12,4,1259.99,Organic Search,South East
+88,2024-08-14,139,3,698.36,Organic Search,South East
+89,2024-12-08,23,4,940.24,Organic Search,Yorkshire
+90,2024-12-30,1,4,1354.58,Affiliate,North West
+91,2024-08-31,122,5,1554.98,Organic Search,South East
+92,2024-12-27,4,1,294.19,Paid Social,South East
+93,2024-05-19,226,1,628.02,Paid Social,South West
+94,2024-12-16,15,9,2938.9,Email,South East
+95,2024-12-08,23,1,98.03,Paid Social,North West
+96,2024-11-24,37,1,155.98,Organic Search,North West
+97,2024-12-04,27,4,935.44,Referral,North West
+98,2024-07-10,174,2,390.59,Organic Search,London
+100,2024-11-24,37,2,372.99,Organic Search,West Midlands
+101,2024-03-23,283,2,84.03,Direct,West Midlands
+103,2024-03-10,296,2,515.87,Paid Social,West Midlands
+104,2024-12-15,16,4,657.77,Organic Search,Scotland
+105,2024-12-27,4,4,1193.81,Affiliate,London
+107,2024-12-29,2,2,808.72,Organic Search,East of England
+108,2024-12-08,23,5,1089.26,Email,West Midlands
+109,2024-05-18,227,3,374.16,Direct,South East
+110,2024-11-22,39,3,900.27,Organic Search,North West
+111,2024-12-15,16,2,156.0,Affiliate,North West
+112,2024-09-10,112,1,193.29,Organic Search,London
+113,2024-12-12,19,4,2366.7,Organic Search,Scotland
+114,2024-12-21,10,4,1774.38,Direct,South West
+116,2024-12-07,24,5,1792.63,Organic Search,London
+118,2024-12-12,19,10,2448.34,Referral,London
+119,2024-06-26,188,1,446.65,Paid Social,London
+120,2024-12-26,5,7,1635.98,Email,Scotland
+121,2024-11-27,34,1,53.7,Direct,Yorkshire
+122,2024-12-30,1,6,3313.76,Organic Search,London
+123,2024-11-26,35,5,1469.06,Organic Search,Scotland
+124,2024-09-21,101,6,2123.83,Referral,East of England
+125,2024-09-15,107,4,805.3,Direct,North West
+126,2024-03-07,299,3,367.39,Direct,East of England
+128,2024-11-08,53,2,97.06,Paid Social,Wales
+129,2024-12-10,21,3,886.06,Paid Social,North West
+130,2024-12-12,19,3,658.29,Organic Search,Yorkshire
+131,2024-12-27,4,3,1404.69,Organic Search,Scotland
+132,2024-11-24,37,5,1602.96,Direct,South West
+133,2024-12-02,29,3,193.37,Direct,West Midlands
+134,2024-11-22,39,2,704.46,Paid Social,South East
+135,2024-12-22,9,1,49.21,Paid Social,South East
+136,2024-12-02,29,4,1418.58,Direct,London
+137,2024-12-12,19,4,1751.27,Direct,London
+138,2024-12-14,17,4,1173.86,Email,West Midlands
+140,2024-11-12,49,4,1416.38,Affiliate,North West
+141,2024-12-22,9,2,1185.35,Organic Search,London
+143,2024-08-03,150,3,245.17,Referral,London
+144,2024-05-26,219,6,518.8,Referral,Yorkshire
+145,2024-11-23,38,3,407.89,Organic Search,South East
+147,2024-06-21,193,2,1223.6,Organic Search,London
+148,2024-11-21,40,2,347.59,Referral,South East
+149,2024-11-23,38,3,210.27,Referral,London
+150,2024-11-13,48,1,887.86,Organic Search,South East
+151,2024-12-12,19,4,2191.7,Organic Search,Wales
+152,2024-12-10,21,6,3475.12,Organic Search,London
+153,2024-12-06,25,5,678.47,Organic Search,West Midlands
+154,2024-11-25,36,2,263.09,Direct,West Midlands
+155,2024-09-19,103,3,1257.3,Direct,South East
+156,2024-12-14,17,1,172.0,Referral,Scotland
+157,2024-12-29,2,1,56.13,Organic Search,Wales
+158,2024-04-11,264,3,1048.13,Paid Social,South East
+161,2024-03-23,283,2,711.97,Email,South East
+162,2024-12-11,20,1,126.24,Paid Social,Yorkshire
+163,2024-11-02,59,3,1115.67,Paid Social,East of England
+164,2024-11-20,41,3,1014.74,Direct,North West
+166,2024-12-13,18,8,2307.9,Organic Search,London
+167,2024-12-26,5,6,1262.03,Email,Scotland
+168,2024-11-20,41,1,401.31,Organic Search,London
+169,2024-12-10,21,4,1040.66,Direct,North West
+170,2024-12-15,16,2,1083.98,Paid Social,North West
+171,2024-11-23,38,4,1648.18,Affiliate,Yorkshire
+173,2024-12-18,13,3,2069.57,Direct,East of England
+174,2024-06-25,189,3,450.41,Organic Search,West Midlands
+175,2024-10-07,85,3,823.93,Affiliate,East of England
+176,2023-12-20,377,3,1310.17,Organic Search,Wales
+177,2024-12-13,18,6,1809.11,Organic Search,London
+179,2024-12-04,27,6,1650.38,Organic Search,Yorkshire
+180,2024-12-16,15,6,883.09,Organic Search,East of England
+181,2024-07-31,153,1,1074.43,Organic Search,South West
+184,2024-11-19,42,3,547.68,Organic Search,South East
+185,2024-12-19,12,4,2001.29,Affiliate,London
+186,2024-11-29,32,5,2163.74,Paid Social,Yorkshire
+187,2024-11-24,37,2,466.68,Paid Social,East of England
+188,2024-12-20,11,2,297.89,Paid Social,North West
+189,2024-07-25,159,1,13.94,Affiliate,London
+190,2024-12-17,14,1,104.98,Organic Search,London
+191,2024-06-06,208,4,540.63,Affiliate,Scotland
+192,2024-11-19,42,2,640.31,Organic Search,West Midlands
+194,2024-08-18,135,6,1171.79,Email,London
+196,2024-10-14,78,5,1360.72,Direct,North West
+197,2024-07-30,154,2,232.32,Email,Scotland
+199,2024-07-06,178,1,351.08,Organic Search,South East
+200,2024-11-26,35,5,1402.77,Affiliate,London
+202,2024-12-28,3,2,910.49,Email,Wales
+203,2024-11-26,35,2,107.27,Organic Search,West Midlands
+204,2024-06-12,202,1,516.88,Direct,London
+205,2024-09-06,116,2,461.16,Email,East of England
+206,2024-10-09,83,1,258.9,Organic Search,North West
+207,2024-11-22,39,6,2651.47,Direct,South East
+208,2024-10-16,76,1,7.07,Referral,London
+209,2024-09-24,98,2,358.53,Affiliate,South East
+210,2024-12-07,24,1,178.19,Paid Social,London
+211,2024-06-19,195,1,219.21,Referral,North West
+212,2024-12-09,22,3,616.12,Organic Search,Scotland
+213,2024-06-25,189,5,799.41,Paid Social,East of England
+214,2024-12-03,28,7,2329.63,Email,Scotland
+215,2024-12-10,21,7,3939.88,Affiliate,London
+216,2024-08-05,148,4,533.76,Organic Search,East of England
+217,2024-11-11,50,3,1565.81,Affiliate,South West
+219,2024-12-31,0,2,403.92,Referral,Scotland
+222,2024-10-27,65,1,304.35,Organic Search,South West
+224,2024-09-16,106,1,227.79,Organic Search,Yorkshire
+225,2024-11-21,40,5,754.83,Organic Search,London
+226,2024-11-23,38,6,2250.68,Affiliate,South West
+227,2024-10-31,61,2,932.1,Referral,London
+228,2024-11-28,33,1,179.14,Email,North East
+230,2024-09-20,102,5,2689.17,Direct,East of England
+231,2024-12-10,21,1,885.52,Paid Social,London
+232,2024-11-09,52,2,152.17,Direct,South West
+233,2024-11-29,32,7,2864.23,Direct,London
+234,2024-12-31,0,6,1498.07,Direct,East of England
+235,2024-12-27,4,1,250.13,Email,London
+236,2024-09-15,107,2,673.12,Email,West Midlands
+237,2023-10-23,435,3,271.21,Paid Social,West Midlands
+238,2024-06-21,193,1,11.81,Organic Search,London
+239,2024-12-20,11,1,1160.45,Email,London
+240,2024-12-18,13,3,460.98,Email,East of England
+241,2024-12-17,14,2,1810.02,Paid Social,East of England
+242,2024-12-04,27,4,830.25,Direct,London
+243,2024-12-16,15,3,1321.73,Email,London
+244,2024-11-24,37,1,307.44,Organic Search,Scotland
+245,2024-08-13,140,2,701.85,Affiliate,Scotland
+246,2023-07-12,538,2,567.37,Organic Search,Yorkshire
+248,2024-12-31,0,8,1078.92,Organic Search,South West
+249,2024-12-20,11,3,680.05,Paid Social,London
+250,2024-12-27,4,8,4695.56,Email,London
+251,2024-10-24,68,4,1696.25,Email,South East
+252,2024-11-13,48,4,855.38,Direct,East of England
+253,2024-10-19,73,3,252.89,Organic Search,Scotland
+254,2024-12-05,26,9,3101.26,Paid Social,London
+255,2024-11-21,40,2,1070.78,Direct,West Midlands
+256,2024-06-17,197,4,506.45,Paid Social,North West
+258,2024-12-12,19,1,188.88,Organic Search,South East
+259,2024-09-09,113,3,549.39,Paid Social,South East
+260,2024-12-23,8,3,669.96,Email,South West
+261,2024-10-22,70,3,295.92,Organic Search,London
+262,2024-11-05,56,5,2658.21,Organic Search,East of England
+263,2024-11-24,37,8,2569.79,Paid Social,London
+264,2024-12-21,10,2,509.69,Paid Social,South East
+265,2024-08-09,144,2,617.62,Organic Search,South East
+266,2024-12-04,27,5,959.37,Organic Search,Yorkshire
+267,2024-12-27,4,1,359.71,Paid Social,South East
+268,2024-12-06,25,2,1082.1,Organic Search,West Midlands
+269,2024-12-25,6,1,379.98,Direct,North West
+270,2024-05-13,232,1,639.41,Paid Social,East of England
+271,2024-09-19,103,3,1369.43,Paid Social,South East
+272,2024-12-22,9,9,1640.75,Affiliate,London
+273,2023-05-30,581,1,49.39,Organic Search,South East
+275,2024-10-18,74,5,2031.0,Organic Search,Yorkshire
+277,2024-09-02,120,3,458.03,Paid Social,West Midlands
+278,2024-11-29,32,10,2801.71,Organic Search,Scotland
+279,2024-07-04,180,3,807.03,Organic Search,London
+280,2023-11-28,399,3,537.29,Organic Search,Yorkshire
+282,2024-11-08,53,3,650.85,Organic Search,East of England
+283,2024-12-15,16,5,1250.51,Affiliate,North West
+284,2024-06-30,184,2,819.0,Organic Search,West Midlands
+285,2024-10-05,87,3,845.76,Organic Search,Yorkshire
+286,2024-11-27,34,5,1269.94,Direct,London
+287,2024-03-03,303,3,962.54,Paid Social,South East
+290,2024-12-18,13,3,1082.03,Organic Search,North West
+291,2024-10-13,79,4,1720.28,Organic Search,West Midlands
+292,2024-11-25,36,3,1807.26,Paid Social,Yorkshire
+294,2024-11-10,51,4,1595.64,Organic Search,North West
+295,2024-11-29,32,8,2958.89,Email,Yorkshire
+297,2024-10-25,67,3,551.66,Organic Search,South West
+298,2024-11-27,34,2,653.92,Direct,London
+299,2024-12-18,13,1,463.58,Affiliate,London
+303,2024-11-29,32,2,955.13,Organic Search,North West
+304,2024-06-27,187,2,880.51,Direct,North West
+305,2024-12-01,30,6,2705.98,Organic Search,Scotland
+306,2024-12-26,5,1,179.23,Paid Social,South East
+309,2024-12-11,20,1,42.7,Affiliate,South West
+310,2024-11-11,50,2,259.66,Paid Social,Yorkshire
+312,2024-12-01,30,1,711.38,Direct,West Midlands
+313,2024-12-18,13,4,1037.83,Paid Social,London
+315,2024-10-19,73,2,778.74,Direct,London
+316,2024-12-03,28,3,1526.65,Direct,North West
+319,2024-09-26,96,2,97.89,Email,Scotland
+320,2024-12-26,5,2,1333.91,Direct,Scotland
+321,2024-12-06,25,4,1193.35,Organic Search,West Midlands
+325,2024-09-05,117,5,498.15,Organic Search,South East
+326,2024-12-13,18,4,536.6,Referral,London
+327,2024-11-26,35,1,245.84,Paid Social,East of England
+328,2024-11-12,49,2,220.57,Paid Social,London
+329,2024-10-22,70,4,1567.04,Email,North West
+330,2024-11-14,47,1,124.66,Paid Social,South East
+331,2024-11-02,59,1,264.59,Email,West Midlands
+332,2024-12-12,19,3,1193.42,Paid Social,Yorkshire
+333,2024-12-07,24,4,1169.83,Organic Search,London
+334,2024-11-15,46,3,1531.74,Direct,Yorkshire
+335,2024-08-15,138,1,248.96,Email,Yorkshire
+336,2024-11-19,42,3,1110.8,Organic Search,London
+337,2024-10-10,82,2,1333.46,Organic Search,North West
+338,2024-04-17,258,4,1141.15,Email,Yorkshire
+339,2024-12-11,20,5,1528.54,Paid Social,London
+340,2024-08-07,146,2,476.91,Affiliate,South East
+341,2024-12-22,9,3,2569.91,Email,London
+342,2024-12-07,24,3,1111.58,Affiliate,North West
+343,2024-12-25,6,5,1784.18,Organic Search,Yorkshire
+344,2024-10-30,62,5,1204.93,Email,West Midlands
+345,2024-12-20,11,1,464.65,Organic Search,South East
+348,2024-04-06,269,2,668.24,Affiliate,Scotland
+349,2024-11-22,39,1,132.72,Referral,London
+350,2024-08-25,128,2,306.67,Email,North West
+351,2024-12-24,7,5,1597.98,Direct,South East
+352,2024-05-06,239,2,186.47,Referral,North West
+353,2024-12-20,11,2,526.52,Email,North West
+354,2024-12-18,13,5,852.71,Direct,North West
+355,2024-12-11,20,3,944.4,Email,East of England
+356,2024-11-23,38,2,861.66,Paid Social,South West
+358,2024-09-12,110,2,865.29,Paid Social,South West
+359,2024-10-22,70,3,586.85,Referral,South West
+360,2024-12-15,16,3,1009.61,Affiliate,West Midlands
+362,2024-11-05,56,1,195.18,Organic Search,East of England
+364,2024-05-20,225,2,510.56,Email,Scotland
+365,2024-12-09,22,5,1584.33,Paid Social,London
+366,2024-05-09,236,2,698.17,Email,South East
+368,2024-09-23,99,3,355.3,Email,South East
+369,2024-12-08,23,4,724.04,Organic Search,North West
+370,2024-06-25,189,2,331.66,Referral,London
+371,2024-09-18,104,5,2449.39,Referral,North East
+373,2024-12-15,16,3,550.75,Organic Search,South East
+374,2024-09-12,110,4,1317.79,Direct,Scotland
+375,2024-12-24,7,3,933.19,Email,West Midlands
+377,2024-12-22,9,2,891.99,Paid Social,Scotland
+378,2024-11-24,37,1,45.96,Paid Social,London
+379,2024-12-18,13,1,381.92,Referral,North West
+381,2024-11-11,50,9,5633.82,Paid Social,London
+382,2024-11-05,56,1,734.12,Affiliate,West Midlands
+383,2024-09-26,96,2,632.44,Organic Search,North West
+384,2024-09-11,111,4,2416.03,Email,South East
+385,2024-06-21,193,2,229.18,Organic Search,Yorkshire
+386,2024-11-25,36,1,644.75,Organic Search,London
+387,2024-12-02,29,4,730.65,Referral,South West
+388,2024-12-07,24,3,1158.89,Email,Yorkshire
+389,2024-09-30,92,2,1812.95,Organic Search,London
+390,2024-10-19,73,1,338.74,Organic Search,Yorkshire
+392,2024-12-06,25,3,812.67,Affiliate,South East
+394,2023-12-17,380,3,1107.48,Email,North East
+395,2024-11-28,33,3,765.17,Referral,North East
+396,2024-10-20,72,4,2016.25,Paid Social,London
+397,2024-12-08,23,5,1157.0,Organic Search,West Midlands
+398,2024-12-05,26,2,352.83,Paid Social,Yorkshire
+399,2024-05-16,229,3,540.31,Direct,South East
+400,2024-12-25,6,5,585.35,Email,London
+401,2024-12-21,10,1,508.02,Organic Search,East of England
+402,2024-11-24,37,1,68.86,Email,North West
+403,2024-12-03,28,3,1401.39,Email,London
+404,2024-11-11,50,1,197.27,Paid Social,Wales
+405,2024-12-14,17,6,3063.74,Email,West Midlands
+406,2023-08-31,488,2,58.67,Referral,London
+407,2024-11-04,57,2,341.03,Organic Search,Yorkshire
+408,2024-12-23,8,2,919.77,Paid Social,North West
+409,2024-11-09,52,2,304.14,Paid Social,West Midlands
+410,2024-11-23,38,2,86.51,Direct,East of England
+411,2024-12-03,28,6,1139.46,Paid Social,Scotland
+412,2024-09-07,115,4,479.35,Organic Search,North West
+413,2024-12-17,14,2,191.9,Organic Search,East of England
+415,2024-11-08,53,3,1574.13,Email,Scotland
+416,2024-12-22,9,7,2728.91,Organic Search,Yorkshire
+417,2024-11-27,34,4,1133.01,Direct,West Midlands
+418,2024-12-25,6,5,1348.35,Paid Social,London
+419,2024-11-16,45,1,7.1,Organic Search,North West
+420,2024-08-16,137,1,280.41,Organic Search,Wales
+421,2024-10-01,91,6,1172.35,Organic Search,Scotland
+423,2023-11-25,402,1,437.2,Organic Search,West Midlands
+424,2024-12-22,9,4,989.1,Direct,Yorkshire
+425,2024-12-23,8,5,850.33,Paid Social,North West
+427,2024-11-03,58,2,1004.66,Email,Yorkshire
+428,2024-05-27,218,4,1431.73,Referral,South East
+430,2023-12-11,386,2,139.12,Paid Social,London
+431,2024-12-14,17,6,1539.04,Direct,London
+432,2024-12-12,19,6,1001.83,Organic Search,Scotland
+433,2024-09-05,117,2,300.66,Direct,South East
+434,2024-12-31,0,6,1052.92,Referral,South East
+435,2024-11-26,35,1,92.27,Email,South East
+436,2024-12-28,3,1,449.23,Paid Social,East of England
+437,2024-12-12,19,4,500.59,Referral,West Midlands
+438,2024-12-27,4,6,2769.56,Paid Social,Scotland
+439,2024-11-04,57,4,1893.51,Paid Social,Yorkshire
+440,2024-12-16,15,3,1307.01,Direct,South West
+441,2024-11-21,40,4,719.95,Direct,Scotland
+443,2024-12-02,29,4,2110.76,Organic Search,North West
+444,2024-12-21,10,3,759.05,Referral,South East
+445,2024-11-20,41,1,1010.14,Organic Search,Yorkshire
+446,2024-09-07,115,2,480.49,Email,London
+447,2024-11-22,39,1,411.3,Organic Search,North West
+448,2024-10-30,62,2,725.93,Email,London
+449,2024-12-18,13,3,733.72,Paid Social,South West
+450,2024-10-05,87,2,124.69,Email,London
+451,2024-12-22,9,2,847.39,Referral,North East
+452,2024-10-07,85,1,386.12,Organic Search,North West
+453,2024-12-08,23,6,2393.59,Organic Search,Scotland
+454,2024-11-22,39,2,442.98,Email,East of England
+455,2024-11-22,39,6,1182.01,Organic Search,South East
+456,2024-05-17,228,7,2117.98,Email,North East
+459,2024-08-04,149,5,2693.53,Organic Search,East of England
+460,2024-09-15,107,7,2394.09,Organic Search,North East
+462,2024-12-15,16,2,247.78,Direct,Wales
+463,2024-08-05,148,1,262.85,Paid Social,North West
+464,2024-10-27,65,4,1138.34,Paid Social,South East
+465,2024-11-11,50,3,474.67,Organic Search,North East
+466,2024-12-31,0,8,2769.86,Organic Search,London
+467,2024-12-26,5,3,1262.26,Direct,West Midlands
+469,2024-11-07,54,1,1308.82,Organic Search,London
+470,2024-11-28,33,3,472.38,Organic Search,West Midlands
+471,2024-11-25,36,1,597.37,Referral,South West
+472,2024-10-24,68,2,2070.1,Referral,Wales
+474,2024-12-14,17,6,1359.57,Organic Search,North East
+476,2023-05-13,598,1,259.97,Organic Search,North West
+477,2024-12-01,30,1,88.6,Affiliate,North East
+478,2024-11-20,41,1,40.7,Direct,London
+479,2024-05-23,222,1,86.39,Paid Social,South East
+480,2024-11-21,40,2,565.48,Affiliate,South East
+482,2024-12-28,3,4,2781.55,Direct,South East
+485,2024-08-07,146,2,1342.42,Affiliate,West Midlands
+486,2024-12-26,5,2,826.28,Paid Social,Yorkshire
+487,2024-12-03,28,1,817.63,Organic Search,North West
+488,2024-12-27,4,3,222.26,Organic Search,Yorkshire
+489,2024-12-22,9,5,1297.86,Paid Social,South East
+490,2024-11-29,32,5,531.99,Organic Search,Wales
+491,2024-07-25,159,1,10.14,Paid Social,West Midlands
+492,2024-12-24,7,1,87.15,Referral,East of England
+493,2024-12-13,18,4,677.51,Organic Search,East of England
+494,2024-08-28,125,3,979.08,Organic Search,South East
+495,2024-11-04,57,4,566.79,Referral,East of England
+496,2024-11-22,39,8,2790.78,Direct,East of England
+497,2024-12-06,25,3,1267.18,Organic Search,North East
+498,2024-08-16,137,4,1038.71,Referral,North West
+499,2024-12-19,12,2,1037.54,Paid Social,Scotland
+500,2024-02-14,321,3,1028.79,Direct,London
+501,2024-11-29,32,2,631.71,Paid Social,Scotland
+503,2024-10-15,77,6,1043.24,Organic Search,London
+504,2024-12-05,26,3,1387.75,Referral,South East
+505,2024-12-23,8,4,797.24,Email,South East
+507,2024-12-10,21,4,953.87,Referral,London
+508,2024-11-01,60,4,1693.67,Paid Social,Yorkshire
+509,2024-06-16,198,1,15.52,Direct,North West
+511,2024-12-20,11,4,1623.2,Affiliate,South East
+512,2024-12-05,26,8,3301.1,Organic Search,South East
+513,2024-10-08,84,1,289.96,Paid Social,South West
+515,2024-12-14,17,3,554.25,Organic Search,South East
+516,2024-11-25,36,1,334.46,Email,London
+517,2024-11-27,34,2,24.08,Direct,Wales
+518,2024-10-05,87,2,736.65,Organic Search,South West
+519,2024-12-26,5,3,1053.35,Affiliate,London
+520,2024-11-23,38,1,103.83,Organic Search,Yorkshire
+521,2024-06-27,187,2,931.88,Direct,Scotland
+523,2024-11-29,32,4,1153.74,Paid Social,East of England
+524,2024-11-29,32,2,255.5,Organic Search,East of England
+525,2024-11-28,33,2,1504.27,Direct,South East
+527,2024-12-20,11,8,4204.15,Paid Social,London
+528,2024-11-29,32,4,580.48,Paid Social,Yorkshire
+529,2024-12-12,19,1,31.96,Paid Social,Scotland
+530,2024-11-17,44,2,1011.49,Organic Search,Scotland
+531,2024-11-26,35,3,459.91,Email,South East
+533,2024-11-14,47,7,4137.19,Referral,West Midlands
+534,2024-12-09,22,1,67.24,Organic Search,West Midlands
+535,2024-12-25,6,3,678.09,Referral,North West
+536,2024-10-05,87,1,932.72,Paid Social,London
+537,2024-09-12,110,5,3698.35,Paid Social,Wales
+538,2024-11-11,50,6,1107.44,Paid Social,South West
+540,2024-12-26,5,3,1541.15,Email,North West
+542,2024-07-24,160,3,690.97,Organic Search,West Midlands
+543,2024-04-11,264,3,726.46,Paid Social,London
+544,2024-11-28,33,3,1834.1,Direct,Wales
+545,2024-12-19,12,3,1830.8,Referral,South East
+546,2024-11-24,37,1,119.58,Organic Search,South East
+547,2024-12-14,17,3,538.81,Paid Social,Scotland
+548,2024-12-11,20,3,1938.6,Referral,West Midlands
+550,2024-07-08,176,7,1456.6,Direct,South East
+551,2024-12-05,26,2,103.23,Affiliate,North East
+552,2024-12-18,13,4,891.71,Organic Search,London
+553,2024-12-26,5,2,685.81,Referral,North East
+554,2024-11-28,33,8,3167.06,Organic Search,North West
+555,2024-07-26,158,1,15.28,Paid Social,South East
+556,2024-12-12,19,3,178.28,Direct,West Midlands
+557,2024-12-10,21,5,475.44,Paid Social,South West
+558,2024-06-12,202,3,664.24,Paid Social,London
+560,2024-08-02,151,3,87.87,Organic Search,East of England
+561,2024-09-30,92,2,238.4,Referral,Scotland
+562,2024-11-26,35,5,1916.39,Paid Social,Scotland
+563,2024-11-20,41,3,204.85,Referral,Wales
+564,2024-12-10,21,1,499.39,Organic Search,West Midlands
+565,2024-12-20,11,3,352.18,Affiliate,London
+566,2024-12-05,26,7,2195.44,Paid Social,Scotland
+567,2024-05-21,224,4,855.11,Referral,South East
+568,2024-04-06,269,1,27.38,Referral,Scotland
+569,2024-08-13,140,4,738.02,Organic Search,Scotland
+570,2024-07-06,178,1,20.44,Paid Social,South East
+571,2024-09-28,94,1,57.53,Paid Social,East of England
+572,2024-12-09,22,3,756.64,Referral,North East
+573,2024-10-11,81,2,330.93,Affiliate,South East
+574,2024-09-28,94,4,818.79,Organic Search,East of England
+575,2024-11-22,39,3,723.03,Organic Search,London
+577,2024-11-19,42,4,1169.56,Direct,East of England
+578,2024-09-10,112,1,64.09,Affiliate,East of England
+579,2024-11-30,31,2,953.74,Direct,Scotland
+580,2024-12-19,12,1,16.41,Organic Search,Wales
+581,2024-07-11,173,1,350.99,Paid Social,East of England
+582,2024-11-25,36,2,799.83,Organic Search,London
+583,2024-11-29,32,2,496.98,Organic Search,East of England
+585,2024-12-02,29,6,2291.72,Organic Search,London
+586,2024-12-08,23,7,2988.61,Email,South West
+587,2024-10-10,82,6,2296.58,Organic Search,North West
+589,2024-08-11,142,1,575.62,Direct,Scotland
+591,2024-11-27,34,1,369.97,Direct,Yorkshire
+592,2024-07-21,163,2,249.61,Organic Search,South West
+593,2023-12-31,366,5,1108.97,Direct,North West
+594,2024-07-06,178,1,459.17,Email,South East
+595,2024-12-20,11,4,1621.46,Affiliate,North East
+597,2024-11-25,36,3,223.92,Organic Search,Yorkshire
+599,2024-11-01,60,2,124.08,Organic Search,London
+600,2024-12-02,29,2,99.42,Paid Social,South West
+601,2024-10-21,71,1,507.53,Email,Scotland
+603,2023-08-08,511,1,12.17,Organic Search,West Midlands
+604,2024-12-21,10,4,896.74,Affiliate,South East
+605,2024-10-20,72,3,889.48,Organic Search,West Midlands
+608,2024-06-26,188,3,1347.73,Organic Search,Scotland
+609,2024-11-27,34,7,1655.98,Direct,South East
+611,2024-08-30,123,2,968.52,Affiliate,London
+613,2024-05-22,223,6,2185.49,Paid Social,West Midlands
+614,2024-08-24,129,1,459.62,Organic Search,London
+615,2024-12-27,4,1,14.16,Organic Search,West Midlands
+617,2024-12-23,8,3,400.21,Organic Search,London
+618,2024-10-27,65,2,766.72,Paid Social,London
+619,2024-11-07,54,2,27.57,Paid Social,West Midlands
+620,2024-11-27,34,5,1119.35,Referral,Scotland
+621,2024-11-16,45,1,78.77,Organic Search,South East
+622,2024-12-04,27,3,2654.82,Organic Search,North East
+625,2024-05-09,236,3,1034.61,Paid Social,North West
+626,2024-12-25,6,2,280.96,Referral,London
+627,2024-12-07,24,2,306.52,Email,London
+628,2024-12-22,9,5,3248.54,Paid Social,West Midlands
+629,2024-12-07,24,2,121.76,Paid Social,Yorkshire
+630,2023-12-27,370,3,736.06,Referral,West Midlands
+633,2024-11-24,37,4,742.62,Direct,Yorkshire
+634,2024-12-13,18,1,59.23,Paid Social,Yorkshire
+636,2024-12-11,20,2,274.38,Paid Social,West Midlands
+637,2024-02-12,323,3,652.71,Paid Social,Scotland
+638,2024-03-03,303,3,2033.65,Paid Social,West Midlands
+639,2024-12-08,23,3,311.03,Organic Search,South East
+640,2024-12-20,11,2,214.17,Paid Social,Scotland
+641,2024-12-17,14,3,791.86,Paid Social,North West
+643,2024-11-30,31,2,199.13,Paid Social,South East
+644,2024-08-01,152,3,1589.08,Direct,East of England
+646,2024-12-01,30,3,1185.44,Organic Search,London
+647,2023-12-14,383,2,297.33,Direct,East of England
+648,2024-06-19,195,1,280.25,Organic Search,Scotland
+649,2024-11-26,35,3,1266.34,Referral,North West
+651,2024-12-19,12,4,2662.2,Affiliate,South East
+654,2024-12-30,1,4,1750.02,Direct,South East
+655,2024-11-25,36,2,93.71,Email,London
+656,2024-12-28,3,3,587.78,Organic Search,Scotland
+658,2023-09-25,463,1,54.21,Paid Social,West Midlands
+659,2024-02-20,315,2,625.22,Affiliate,East of England
+660,2024-12-01,30,3,690.59,Organic Search,North West
+661,2024-08-05,148,4,1652.2,Email,London
+663,2024-08-01,152,2,366.17,Paid Social,North East
+664,2024-11-30,31,4,1009.93,Paid Social,Wales
+665,2024-11-01,60,3,511.41,Organic Search,West Midlands
+666,2024-11-23,38,3,808.12,Organic Search,London
+669,2024-09-29,93,2,602.35,Affiliate,Wales
+670,2024-12-15,16,3,1370.74,Direct,South East
+672,2024-11-24,37,4,1474.15,Paid Social,North West
+673,2024-11-26,35,2,183.78,Paid Social,South East
+674,2024-11-07,54,3,285.39,Referral,South West
+675,2024-12-08,23,2,54.31,Organic Search,London
+676,2024-12-31,0,1,829.83,Referral,East of England
+677,2024-12-03,28,1,17.64,Direct,West Midlands
+678,2024-12-16,15,2,578.93,Organic Search,North West
+679,2024-12-07,24,4,1007.3,Direct,West Midlands
+680,2024-11-18,43,1,241.36,Referral,London
+682,2024-11-25,36,4,982.95,Affiliate,London
+683,2024-12-26,5,5,1307.56,Organic Search,Yorkshire
+684,2024-12-15,16,1,495.57,Affiliate,Yorkshire
+685,2024-09-08,114,2,398.41,Referral,North West
+686,2024-10-20,72,1,267.92,Email,West Midlands
+687,2024-04-27,248,1,385.58,Email,East of England
+688,2024-03-25,281,1,246.76,Referral,East of England
+689,2024-12-03,28,2,472.34,Direct,South West
+690,2024-12-13,18,6,653.96,Organic Search,North East
+691,2024-12-12,19,6,1824.82,Paid Social,East of England
+692,2024-11-29,32,7,1741.75,Organic Search,Yorkshire
+694,2024-12-23,8,6,1400.08,Paid Social,South West
+696,2024-12-11,20,2,1139.48,Email,South West
+698,2024-12-20,11,1,217.76,Direct,North West
+699,2024-11-27,34,3,293.51,Paid Social,London
+701,2024-12-16,15,2,666.29,Email,London
+704,2024-11-05,56,9,2462.99,Referral,Yorkshire
+705,2024-12-30,1,7,3282.34,Direct,London
+706,2024-09-27,95,1,46.48,Referral,Yorkshire
+707,2024-11-24,37,2,742.49,Email,London
+708,2024-12-26,5,1,777.71,Email,South East
+710,2024-11-24,37,5,1889.33,Paid Social,London
+711,2024-09-02,120,1,1863.32,Email,West Midlands
+712,2023-11-24,403,1,218.4,Organic Search,South East
+713,2024-12-27,4,2,52.33,Email,West Midlands
+717,2024-08-31,122,5,2321.81,Paid Social,Yorkshire
+719,2024-12-29,2,2,575.13,Paid Social,Scotland
+720,2024-09-20,102,4,1593.73,Organic Search,South East
+722,2024-12-17,14,5,1339.58,Email,South East
+723,2024-10-21,71,2,1351.07,Affiliate,South East
+724,2024-12-06,25,5,1725.67,Paid Social,London
+725,2024-04-14,261,1,240.32,Direct,Yorkshire
+728,2024-12-08,23,5,2079.09,Direct,South East
+729,2024-12-26,5,4,809.97,Email,London
+731,2024-08-25,128,2,1154.1,Email,North West
+732,2024-12-24,7,6,3584.38,Affiliate,London
+733,2024-12-06,25,1,26.74,Organic Search,Yorkshire
+735,2024-02-11,324,1,15.89,Organic Search,South West
+739,2024-12-19,12,3,611.56,Organic Search,Wales
+740,2024-11-16,45,5,880.64,Direct,East of England
+741,2024-11-28,33,5,401.63,Organic Search,Scotland
+742,2024-11-07,54,4,697.79,Paid Social,Wales
+743,2024-06-30,184,1,239.93,Referral,West Midlands
+744,2024-12-23,8,7,2034.47,Email,Wales
+745,2024-11-05,56,1,442.62,Affiliate,London
+746,2024-09-24,98,3,1599.21,Organic Search,London
+747,2024-12-09,22,4,1031.85,Paid Social,Yorkshire
+749,2024-11-25,36,3,1116.29,Paid Social,South East
+750,2024-10-12,80,2,690.39,Organic Search,North West
+752,2024-11-07,54,4,1241.31,Paid Social,South East
+753,2024-12-11,20,1,413.07,Direct,West Midlands
+755,2024-12-12,19,6,2667.7,Direct,London
+756,2024-11-17,44,1,15.14,Paid Social,London
+757,2024-12-17,14,5,680.36,Paid Social,East of England
+758,2024-11-17,44,3,1702.57,Organic Search,North West
+759,2024-11-26,35,3,1034.8,Organic Search,South West
+760,2024-12-21,10,4,1071.77,Organic Search,London
+762,2024-12-10,21,5,2111.36,Paid Social,North West
+763,2024-11-18,43,2,377.53,Paid Social,South West
+764,2024-10-20,72,2,103.85,Email,London
+765,2024-12-28,3,4,1409.14,Paid Social,London
+766,2024-11-08,53,8,1922.59,Direct,London
+767,2024-09-07,115,3,790.58,Email,South East
+769,2024-10-30,62,7,3316.34,Referral,North West
+770,2024-11-23,38,4,1990.15,Organic Search,South West
+771,2024-09-23,99,3,1031.29,Affiliate,North West
+772,2024-12-14,17,5,2209.04,Paid Social,London
+773,2024-12-20,11,1,98.66,Paid Social,Yorkshire
+774,2024-12-23,8,8,2149.38,Organic Search,West Midlands
+775,2024-12-20,11,2,825.35,Referral,South East
+776,2024-11-21,40,6,2034.94,Affiliate,London
+777,2024-12-28,3,6,1377.7,Organic Search,East of England
+779,2024-11-24,37,2,570.82,Referral,Scotland
+781,2024-09-13,109,2,443.49,Organic Search,North East
+783,2024-11-28,33,1,137.89,Organic Search,London
+784,2024-10-11,81,4,2399.9,Paid Social,Scotland
+785,2024-11-10,51,2,356.02,Paid Social,London
+786,2024-12-26,5,5,1158.9,Email,London
+787,2024-01-07,359,2,1366.38,Paid Social,London
+789,2024-03-30,276,3,377.32,Organic Search,Wales
+790,2024-01-03,363,1,504.22,Direct,East of England
+791,2024-12-26,5,2,489.82,Organic Search,East of England
+792,2024-03-12,294,2,698.7,Affiliate,South East
+793,2023-12-25,372,3,554.38,Referral,London
+794,2024-08-11,142,2,366.99,Affiliate,South West
+795,2024-11-16,45,5,1319.81,Organic Search,London
+796,2024-11-26,35,3,254.38,Referral,Wales
+797,2024-12-18,13,8,1914.07,Email,East of England
+798,2024-12-02,29,2,202.05,Paid Social,London
+799,2024-11-23,38,3,599.15,Paid Social,East of England
+800,2024-11-06,55,6,2433.64,Organic Search,Scotland
+801,2024-10-07,85,1,399.2,Affiliate,West Midlands
+802,2024-11-27,34,1,31.97,Direct,North West
+803,2024-12-06,25,2,737.81,Paid Social,South East
+805,2024-08-29,124,1,50.05,Referral,London
+806,2024-08-06,147,3,1153.29,Email,North West
+807,2024-09-11,111,3,942.7,Paid Social,North West
+808,2024-09-07,115,1,297.53,Direct,North West
+810,2024-11-20,41,6,2186.15,Direct,North West
+812,2024-10-12,80,2,641.03,Direct,London
+813,2024-11-24,37,4,3140.27,Direct,South East
+814,2024-11-18,43,5,1012.43,Organic Search,North East
+815,2024-12-27,4,4,1891.44,Referral,London
+816,2024-12-15,16,1,523.07,Direct,London
+817,2024-12-21,10,5,1037.23,Affiliate,London
+818,2024-12-01,30,2,752.4,Paid Social,East of England
+819,2024-11-23,38,1,561.48,Email,West Midlands
+820,2024-12-26,5,3,480.41,Paid Social,North West
+821,2024-11-15,46,6,1500.7,Paid Social,London
+822,2023-11-26,401,2,175.45,Organic Search,London
+823,2024-01-10,356,2,962.91,Referral,Yorkshire
+824,2024-12-29,2,7,2102.87,Referral,West Midlands
+825,2024-12-15,16,1,93.71,Paid Social,West Midlands
+826,2024-12-26,5,3,840.63,Direct,Yorkshire
+827,2024-09-07,115,2,1297.71,Referral,Wales
+829,2024-12-30,1,6,2313.06,Paid Social,North East
+830,2023-12-30,367,3,694.21,Referral,North West
+831,2024-11-03,58,4,863.89,Referral,East of England
+832,2024-12-14,17,6,2482.41,Email,East of England
+833,2024-11-02,59,1,586.26,Email,London
+834,2024-11-04,57,2,160.1,Affiliate,South East
+835,2024-03-03,303,1,100.65,Referral,South East
+836,2024-12-14,17,1,565.55,Paid Social,London
+837,2024-09-24,98,5,2178.59,Affiliate,Yorkshire
+839,2024-12-04,27,5,1959.42,Paid Social,London
+840,2024-12-30,1,2,1275.06,Paid Social,North East
+841,2024-12-14,17,4,417.77,Affiliate,North West
+842,2024-12-06,25,3,824.49,Paid Social,South West
+843,2024-08-01,152,5,3106.27,Referral,West Midlands
+844,2024-10-29,63,1,65.91,Paid Social,Wales
+846,2024-12-20,11,1,609.62,Paid Social,Yorkshire
+847,2024-05-27,218,2,315.5,Referral,North West
+848,2024-06-18,196,1,24.97,Referral,West Midlands
+849,2024-11-22,39,3,1501.83,Organic Search,North West
+850,2024-11-06,55,2,1212.0,Email,North East
+851,2024-12-01,30,4,815.01,Paid Social,West Midlands
+852,2024-12-05,26,6,1865.06,Organic Search,London
+854,2024-11-22,39,1,253.19,Affiliate,South East
+856,2024-11-09,52,6,2326.73,Referral,London
+858,2024-12-18,13,1,1011.28,Email,Yorkshire
+860,2024-10-12,80,2,180.72,Paid Social,East of England
+861,2024-10-02,90,1,33.38,Organic Search,South East
+862,2024-12-13,18,1,390.4,Direct,Wales
+863,2024-10-01,91,4,1224.4,Email,West Midlands
+864,2024-12-17,14,4,844.53,Direct,Yorkshire
+865,2024-09-28,94,6,1259.89,Paid Social,South East
+866,2024-12-15,16,1,16.82,Organic Search,South East
+867,2024-12-16,15,1,768.89,Paid Social,London
+869,2024-09-07,115,2,879.65,Organic Search,South West
+870,2024-12-15,16,4,2993.05,Referral,Yorkshire
+871,2024-12-06,25,5,515.15,Referral,North West
+872,2024-02-28,307,1,28.03,Direct,Scotland
+873,2024-09-14,108,5,855.99,Referral,East of England
+874,2024-11-30,31,3,1242.82,Organic Search,North East
+875,2024-12-30,1,4,1319.28,Direct,Scotland
+876,2024-12-10,21,5,1996.17,Direct,North West
+878,2024-03-13,293,1,314.79,Organic Search,East of England
+880,2024-12-02,29,6,2943.99,Paid Social,West Midlands
+881,2024-12-22,9,3,485.86,Organic Search,London
+882,2024-09-03,119,3,277.17,Email,South East
+883,2024-06-12,202,8,3006.89,Referral,South West
+884,2024-11-23,38,3,241.73,Referral,North East
+885,2024-08-03,150,2,36.58,Direct,West Midlands
+886,2024-08-17,136,5,1093.02,Organic Search,Yorkshire
+887,2024-11-04,57,5,867.05,Referral,South East
+888,2024-08-18,135,3,1350.61,Referral,Scotland
+890,2024-11-10,51,1,18.42,Direct,Scotland
+891,2024-12-09,22,1,12.97,Direct,South East
+892,2024-08-07,146,5,715.61,Organic Search,London
+893,2024-12-19,12,6,2954.45,Paid Social,London
+894,2024-12-17,14,1,371.56,Referral,Yorkshire
+895,2024-11-22,39,2,425.69,Referral,North West
+897,2024-10-13,79,3,444.18,Paid Social,West Midlands
+898,2024-12-13,18,1,252.74,Organic Search,West Midlands
+900,2024-12-02,29,3,1353.04,Email,North West
+901,2024-10-31,61,2,165.59,Paid Social,East of England
+903,2024-04-30,245,4,2070.16,Affiliate,West Midlands
+904,2024-12-20,11,2,817.51,Paid Social,South East
+906,2024-12-03,28,3,734.95,Organic Search,London
+907,2024-03-03,303,6,2207.53,Email,Scotland
+908,2024-11-15,46,2,362.36,Organic Search,London
+909,2024-11-12,49,2,134.96,Paid Social,South East
+910,2024-02-08,327,1,298.56,Organic Search,South West
+911,2024-08-09,144,4,2301.22,Organic Search,Yorkshire
+912,2024-12-18,13,6,2558.92,Organic Search,Scotland
+915,2024-09-29,93,1,367.84,Email,Wales
+916,2024-11-24,37,4,2554.3,Direct,East of England
+917,2024-08-08,145,1,88.12,Paid Social,West Midlands
+918,2024-05-27,218,2,39.45,Referral,North East
+920,2024-12-19,12,5,1912.57,Email,London
+921,2024-12-14,17,1,428.09,Paid Social,South West
+922,2024-12-02,29,5,1196.61,Organic Search,Yorkshire
+923,2024-11-30,31,5,716.69,Email,London
+924,2024-10-17,75,1,26.1,Paid Social,West Midlands
+925,2024-12-29,2,4,424.79,Email,London
+926,2024-06-04,210,4,1414.91,Organic Search,Yorkshire
+927,2024-12-20,11,2,380.77,Referral,London
+928,2024-12-10,21,1,18.97,Organic Search,South East
+929,2024-09-29,93,1,395.05,Referral,London
+930,2024-12-11,20,3,1488.56,Referral,Wales
+931,2024-09-09,113,2,1005.88,Referral,London
+932,2024-12-31,0,4,1928.72,Direct,South East
+933,2024-11-28,33,2,1024.02,Paid Social,North West
+934,2024-12-28,3,3,604.69,Organic Search,London
+936,2024-04-18,257,3,1601.28,Referral,West Midlands
+937,2024-11-09,52,4,1432.22,Organic Search,London
+938,2024-11-27,34,6,2476.78,Organic Search,South East
+939,2024-12-13,18,4,848.58,Organic Search,West Midlands
+940,2024-12-20,11,3,401.28,Direct,East of England
+941,2024-11-29,32,2,465.99,Affiliate,London
+942,2024-12-06,25,2,1152.4,Organic Search,London
+944,2024-12-11,20,4,846.13,Direct,Yorkshire
+946,2024-11-22,39,2,903.3,Direct,North West
+947,2024-12-29,2,9,3338.0,Affiliate,South East
+948,2023-12-31,366,3,431.16,Organic Search,South East
+949,2024-06-25,189,1,142.83,Paid Social,London
+950,2024-10-31,61,3,314.82,Email,Yorkshire
+952,2024-12-28,3,3,656.57,Email,North West
+954,2024-12-01,30,3,1422.67,Direct,Scotland
+955,2024-12-15,16,1,337.51,Paid Social,Scotland
+956,2024-09-25,97,3,225.3,Direct,East of England
+958,2024-10-04,88,3,1219.15,Referral,North West
+959,2024-12-03,28,3,1017.76,Organic Search,South East
+960,2024-04-24,251,1,100.59,Email,South West
+962,2024-12-16,15,4,1161.12,Organic Search,North West
+963,2024-12-31,0,2,334.98,Organic Search,London
+964,2024-12-12,19,4,1142.43,Referral,London
+968,2024-12-10,21,2,303.86,Direct,Yorkshire
+969,2024-12-16,15,2,945.97,Email,Scotland
+970,2024-12-30,1,1,256.98,Paid Social,West Midlands
+971,2024-12-26,5,2,3031.1,Paid Social,London
+972,2024-12-12,19,6,1176.55,Paid Social,London
+975,2024-11-08,53,1,10.85,Affiliate,South East
+976,2024-11-28,33,1,49.58,Email,West Midlands
+977,2024-11-19,42,2,301.03,Affiliate,Scotland
+978,2024-12-19,12,7,4523.55,Organic Search,Scotland
+979,2024-12-25,6,1,420.59,Email,Yorkshire
+980,2024-03-23,283,5,857.23,Affiliate,West Midlands
+981,2024-01-27,339,1,275.3,Paid Social,East of England
+982,2024-11-04,57,2,748.69,Paid Social,South East
+983,2024-11-24,37,1,268.0,Email,South East
+985,2024-12-15,16,4,1096.86,Affiliate,East of England
+986,2024-11-20,41,1,108.91,Paid Social,North West
+987,2024-06-13,201,3,663.75,Direct,London
+988,2024-09-17,105,1,721.03,Direct,London
+989,2024-12-10,21,2,1070.36,Referral,West Midlands
+990,2023-11-16,411,2,717.5,Organic Search,London
+991,2024-11-26,35,7,1651.24,Organic Search,West Midlands
+993,2024-11-13,48,4,1452.98,Organic Search,London
+995,2024-12-20,11,7,1432.18,Organic Search,South East
+996,2024-11-23,38,2,327.6,Organic Search,West Midlands
+997,2024-12-16,15,2,1190.26,Paid Social,London
+998,2024-11-04,57,2,1114.3,Direct,London
+999,2024-06-30,184,4,4038.82,Direct,Wales
+1001,2023-12-20,377,5,876.69,Organic Search,Yorkshire
+1002,2024-12-05,26,4,2788.85,Email,South East
+1003,2024-12-29,2,2,338.02,Organic Search,South West
+1004,2024-01-21,345,3,657.47,Paid Social,South West
+1005,2024-12-18,13,2,1966.8,Referral,Yorkshire
+1006,2024-09-27,95,4,550.17,Paid Social,Yorkshire
+1008,2024-12-30,1,1,156.96,Paid Social,South East
+1010,2024-11-10,51,4,592.79,Email,Scotland
+1011,2024-12-19,12,2,300.66,Referral,South East
+1012,2023-11-29,398,1,137.32,Organic Search,London
+1013,2024-12-31,0,5,978.04,Referral,Yorkshire
+1014,2024-12-23,8,2,389.63,Paid Social,East of England
+1015,2024-12-16,15,2,112.24,Organic Search,South East
+1016,2024-12-27,4,3,285.11,Direct,London
+1017,2024-12-03,28,5,1842.85,Direct,London
+1018,2024-12-23,8,5,836.36,Email,South East
+1020,2023-12-26,371,1,167.86,Paid Social,Yorkshire
+1021,2024-08-21,132,3,1026.3,Paid Social,East of England
+1022,2024-11-27,34,2,512.81,Organic Search,South East
+1023,2024-12-31,0,2,37.42,Paid Social,North West
+1024,2024-06-22,192,4,1346.55,Paid Social,London
+1025,2024-04-24,251,1,242.5,Referral,London
+1026,2024-05-27,218,3,675.01,Paid Social,London
+1027,2024-12-08,23,1,15.97,Referral,North West
+1028,2024-12-10,21,5,1206.53,Email,London
+1029,2024-12-27,4,2,599.44,Referral,North West
+1030,2024-12-17,14,2,614.04,Email,Scotland
+1031,2024-12-23,8,4,647.88,Email,South East
+1032,2024-06-26,188,3,929.37,Organic Search,Yorkshire
+1033,2023-12-31,366,1,1203.61,Affiliate,London
+1034,2024-12-08,23,2,860.04,Organic Search,Yorkshire
+1035,2024-12-09,22,3,1872.47,Paid Social,South East
+1036,2024-12-21,10,5,1639.77,Email,London
+1037,2024-10-22,70,1,135.67,Organic Search,Wales
+1039,2024-12-15,16,4,978.83,Organic Search,South West
+1040,2024-12-21,10,1,33.4,Organic Search,London
+1041,2024-11-29,32,1,81.84,Organic Search,North West
+1042,2024-07-08,176,5,2295.15,Organic Search,West Midlands
+1043,2024-12-31,0,2,329.46,Organic Search,London
+1044,2024-12-01,30,8,3187.74,Paid Social,London
+1047,2024-05-04,241,1,168.65,Organic Search,Wales
+1048,2024-05-26,219,5,729.29,Email,Wales
+1049,2024-12-11,20,2,349.05,Paid Social,South East
+1050,2024-12-24,7,1,632.12,Affiliate,Wales
+1051,2024-12-29,2,1,64.35,Referral,East of England
+1052,2024-11-24,37,2,146.91,Paid Social,North West
+1053,2024-02-12,323,2,874.84,Direct,London
+1056,2024-11-07,54,1,1072.85,Referral,East of England
+1057,2024-01-27,339,1,194.35,Referral,South West
+1058,2024-12-20,11,6,2326.55,Referral,North East
+1059,2024-05-19,226,1,685.32,Organic Search,East of England
+1060,2024-12-27,4,2,1432.48,Email,North East
+1061,2024-12-21,10,3,2725.07,Organic Search,West Midlands
+1062,2023-11-04,423,3,2131.82,Referral,West Midlands
+1064,2024-10-13,79,2,701.73,Organic Search,South East
+1065,2024-10-29,63,2,168.06,Organic Search,Scotland
+1066,2024-12-12,19,2,245.69,Paid Social,South East
+1067,2024-12-09,22,1,44.32,Paid Social,East of England
+1068,2024-12-25,6,3,1086.96,Organic Search,Wales
+1069,2024-04-15,260,1,305.75,Organic Search,North West
+1070,2024-09-12,110,3,246.72,Paid Social,South East
+1071,2024-05-26,219,3,338.07,Paid Social,London
+1072,2024-03-19,287,3,207.08,Paid Social,West Midlands
+1074,2024-12-26,5,5,771.15,Email,North West
+1075,2024-08-03,150,1,865.64,Organic Search,South East
+1076,2024-12-13,18,5,2245.74,Email,Yorkshire
+1077,2024-11-09,52,2,78.64,Referral,South East
+1078,2024-01-24,342,2,782.41,Email,North West
+1079,2024-12-29,2,1,627.76,Affiliate,North West
+1082,2024-12-22,9,3,1791.13,Email,North West
+1083,2024-09-21,101,3,1197.21,Referral,West Midlands
+1084,2024-11-15,46,2,1075.21,Paid Social,South East
+1085,2024-11-10,51,4,905.0,Referral,London
+1086,2024-12-30,1,4,1577.29,Organic Search,London
+1087,2024-12-06,25,1,141.07,Email,East of England
+1088,2024-12-24,7,4,1715.33,Paid Social,Scotland
+1089,2024-12-27,4,4,1091.9,Organic Search,West Midlands
+1090,2024-10-03,89,1,194.29,Organic Search,West Midlands
+1091,2024-11-02,59,1,299.71,Paid Social,London
+1092,2024-06-19,195,2,316.63,Paid Social,East of England
+1093,2024-11-23,38,3,2143.1,Referral,West Midlands
+1094,2024-12-24,7,5,1617.82,Paid Social,London
+1095,2024-12-25,6,6,2669.75,Referral,North West
+1096,2024-11-25,36,5,1093.44,Affiliate,West Midlands
+1097,2024-12-03,28,5,1683.48,Organic Search,South East
+1098,2024-12-27,4,1,106.96,Affiliate,West Midlands
+1100,2024-11-08,53,3,702.77,Referral,South West
+1102,2024-12-19,12,4,332.54,Organic Search,London
+1103,2024-11-19,42,2,296.79,Organic Search,West Midlands
+1104,2024-12-27,4,1,7.64,Referral,Yorkshire
+1105,2024-06-12,202,1,46.27,Referral,Wales
+1106,2024-12-19,12,3,1388.85,Referral,South East
+1108,2024-11-14,47,5,1005.87,Organic Search,North West
+1109,2024-08-27,126,2,918.83,Paid Social,Yorkshire
+1110,2024-09-11,111,1,241.27,Direct,Wales
+1111,2024-10-23,69,4,1473.05,Direct,West Midlands
+1112,2024-11-18,43,3,875.64,Paid Social,London
+1114,2024-12-06,25,2,456.28,Direct,Yorkshire
+1117,2024-11-28,33,1,118.83,Direct,North West
+1119,2024-12-19,12,3,723.8,Organic Search,Wales
+1120,2024-11-03,58,6,2130.92,Organic Search,Yorkshire
+1122,2024-07-16,168,1,24.08,Paid Social,Wales
+1123,2024-11-13,48,2,813.53,Referral,West Midlands
+1125,2024-11-04,57,2,655.18,Paid Social,West Midlands
+1126,2024-12-29,2,4,808.68,Paid Social,Scotland
+1128,2024-12-17,14,3,2014.5,Referral,Scotland
+1129,2024-12-15,16,3,519.75,Organic Search,West Midlands
+1131,2024-12-12,19,5,1976.4,Organic Search,London
+1132,2024-12-16,15,1,31.02,Email,West Midlands
+1133,2024-11-16,45,1,226.85,Paid Social,London
+1134,2024-12-17,14,4,1464.58,Email,London
+1135,2024-09-10,112,1,102.81,Organic Search,Yorkshire
+1136,2024-12-01,30,1,13.92,Paid Social,East of England
+1137,2024-12-02,29,5,759.91,Organic Search,West Midlands
+1138,2024-12-23,8,1,239.46,Referral,Wales
+1139,2024-12-19,12,11,3408.0,Organic Search,South West
+1140,2024-05-13,232,4,507.1,Organic Search,Wales
+1141,2024-11-29,32,4,1343.84,Paid Social,Wales
+1142,2024-11-21,40,1,74.82,Organic Search,Wales
+1143,2024-09-17,105,2,1278.51,Paid Social,Scotland
+1145,2024-12-30,1,4,428.72,Organic Search,West Midlands
+1146,2024-12-29,2,3,1343.73,Paid Social,West Midlands
+1147,2024-11-04,57,2,1753.7,Organic Search,London
+1148,2024-08-27,126,6,638.11,Referral,North West
+1149,2024-08-25,128,1,172.61,Paid Social,Scotland
+1150,2024-05-24,221,4,1996.51,Referral,South East
+1151,2024-12-03,28,6,3088.79,Organic Search,London
+1152,2024-11-23,38,5,1729.99,Organic Search,North West
+1153,2024-12-22,9,5,3770.29,Referral,North West
+1154,2024-11-23,38,1,609.41,Paid Social,East of England
+1155,2024-12-05,26,5,3357.69,Organic Search,North East
+1157,2024-12-09,22,4,1858.77,Referral,East of England
+1158,2024-08-18,135,2,949.46,Paid Social,London
+1160,2024-06-26,188,4,3257.63,Organic Search,South East
+1161,2024-08-04,149,3,1484.95,Direct,North East
+1163,2024-12-19,12,4,1636.23,Email,Scotland
+1164,2024-12-11,20,1,734.3,Paid Social,South East
+1165,2024-11-24,37,6,2844.62,Paid Social,West Midlands
+1166,2024-09-10,112,1,310.46,Direct,South West
+1167,2024-06-29,185,10,1989.36,Direct,London
+1168,2024-11-23,38,1,125.48,Referral,West Midlands
+1170,2024-07-26,158,1,343.52,Paid Social,South East
+1171,2024-12-26,5,3,1477.98,Email,South West
+1172,2024-06-05,209,1,1166.4,Email,North West
+1173,2024-04-08,267,4,3249.56,Paid Social,Scotland
+1174,2024-12-29,2,7,2583.83,Affiliate,London
+1175,2024-12-28,3,2,86.61,Direct,London
+1176,2024-12-01,30,2,564.37,Paid Social,East of England
+1177,2024-12-26,5,1,16.14,Referral,North West
+1179,2024-12-07,24,3,275.07,Referral,South West
+1180,2024-10-18,74,3,1579.15,Direct,Scotland
+1181,2024-10-06,86,3,1483.13,Email,North West
+1182,2024-10-05,87,4,1229.6,Organic Search,London
+1183,2024-11-18,43,3,2432.58,Direct,London
+1184,2024-08-31,122,6,1819.9,Email,London
+1185,2024-12-06,25,6,1509.84,Paid Social,South East
+1186,2024-04-04,271,2,854.52,Email,South East
+1187,2024-12-29,2,7,2694.22,Organic Search,London
+1188,2024-12-15,16,2,793.87,Email,West Midlands
+1190,2024-12-04,27,3,483.79,Referral,North East
+1191,2024-12-22,9,5,2031.82,Direct,South West
+1192,2024-01-26,340,3,874.95,Organic Search,South East
+1193,2024-09-30,92,1,92.46,Email,London
+1194,2024-11-23,38,3,2699.39,Paid Social,London
+1196,2024-06-02,212,1,95.36,Organic Search,South East
+1197,2024-12-24,7,3,539.71,Organic Search,South East
+1198,2024-04-16,259,2,47.49,Referral,London
+1199,2024-12-27,4,2,700.77,Direct,South East
+1201,2024-10-21,71,2,851.48,Email,London
+1203,2024-12-01,30,1,74.15,Direct,North West
+1204,2024-12-13,18,4,1395.33,Email,South East
+1206,2024-12-28,3,6,1148.28,Paid Social,London
+1207,2024-12-05,26,7,3515.51,Paid Social,South East
+1208,2024-11-19,42,3,855.91,Email,Scotland
+1209,2024-04-22,253,3,1703.09,Paid Social,South East
+1210,2024-10-17,75,1,42.45,Paid Social,North West
+1211,2023-12-19,378,3,620.29,Email,South West
+1212,2024-11-06,55,1,1282.84,Paid Social,Scotland
+1213,2024-12-20,11,1,1016.38,Affiliate,East of England
+1215,2024-11-24,37,2,534.25,Direct,Yorkshire
+1216,2024-12-07,24,2,591.23,Email,Scotland
+1217,2024-05-01,244,1,16.02,Organic Search,South East
+1218,2024-12-28,3,4,1481.29,Organic Search,London
+1219,2023-11-06,421,1,74.49,Organic Search,Scotland
+1220,2024-11-26,35,2,2207.27,Email,West Midlands
+1221,2024-11-22,39,2,1116.25,Organic Search,South East
+1223,2024-02-01,334,1,166.03,Referral,West Midlands
+1224,2024-11-07,54,2,177.99,Affiliate,West Midlands
+1225,2024-11-28,33,6,1368.25,Paid Social,Scotland
+1226,2024-11-15,46,3,1304.13,Organic Search,Wales
+1227,2024-09-29,93,1,169.48,Organic Search,Scotland
+1228,2024-10-21,71,6,1854.01,Organic Search,South East
+1231,2024-11-23,38,2,588.51,Affiliate,North East
+1232,2024-11-10,51,5,968.48,Organic Search,London
+1233,2024-12-27,4,4,954.57,Email,North West
+1234,2024-12-13,18,1,473.08,Organic Search,Scotland
+1235,2024-07-30,154,6,2489.93,Organic Search,East of England
+1237,2024-11-24,37,1,60.54,Paid Social,Yorkshire
+1238,2024-12-28,3,2,707.3,Direct,Scotland
+1239,2024-12-27,4,1,14.4,Referral,West Midlands
+1240,2024-12-04,27,2,360.78,Organic Search,Scotland
+1243,2024-10-24,68,4,1765.74,Organic Search,London
+1244,2024-12-25,6,9,1768.29,Organic Search,Yorkshire
+1245,2024-12-26,5,5,3177.8,Organic Search,South East
+1246,2024-09-11,111,1,28.22,Organic Search,London
+1247,2024-09-06,116,1,240.95,Paid Social,West Midlands
+1248,2024-12-25,6,1,209.71,Organic Search,West Midlands
+1249,2024-11-21,40,2,732.97,Organic Search,Yorkshire
+1251,2024-11-07,54,1,223.41,Referral,West Midlands
+1252,2024-11-25,36,2,911.24,Referral,Scotland
+1253,2024-05-31,214,4,1115.57,Organic Search,South East
+1254,2024-11-29,32,5,888.01,Direct,South East
+1255,2024-12-02,29,3,628.22,Referral,South West
+1256,2024-12-06,25,1,553.95,Paid Social,Wales
+1257,2024-10-09,83,5,692.37,Referral,North West
+1258,2024-11-01,60,2,741.05,Paid Social,East of England
+1259,2024-10-06,86,7,1141.6,Organic Search,North West
+1261,2024-12-18,13,1,24.22,Organic Search,Wales
+1262,2024-10-06,86,2,793.28,Organic Search,East of England
+1265,2024-12-09,22,1,38.48,Organic Search,South East
+1266,2024-12-19,12,1,103.85,Affiliate,Yorkshire
+1268,2024-10-21,71,3,791.42,Direct,North West
+1269,2024-12-26,5,7,1350.0,Referral,South East
+1270,2024-11-03,58,3,235.32,Paid Social,West Midlands
+1271,2024-07-08,176,1,220.83,Paid Social,Yorkshire
+1273,2024-12-08,23,8,1164.03,Paid Social,West Midlands
+1276,2024-12-23,8,1,112.24,Affiliate,East of England
+1277,2024-08-05,148,4,758.35,Referral,South East
+1278,2024-12-12,19,4,1578.93,Referral,South East
+1279,2024-12-27,4,9,4123.38,Organic Search,London
+1280,2023-12-19,378,2,755.02,Paid Social,East of England
+1281,2024-09-30,92,4,976.16,Direct,Wales
+1282,2024-11-07,54,5,1237.3,Direct,London
+1283,2024-12-30,1,1,658.26,Paid Social,London
+1284,2024-12-11,20,3,357.06,Organic Search,South East
+1285,2024-11-24,37,4,590.99,Paid Social,London
+1286,2024-11-13,48,4,2037.64,Affiliate,London
+1287,2024-02-25,310,2,908.72,Organic Search,West Midlands
+1288,2024-12-16,15,4,1646.02,Paid Social,Yorkshire
+1290,2024-12-17,14,3,569.36,Referral,North West
+1291,2024-12-27,4,4,786.73,Referral,South West
+1293,2024-06-04,210,1,171.57,Email,South West
+1294,2024-12-20,11,2,700.9,Organic Search,East of England
+1295,2024-10-28,64,1,206.75,Organic Search,London
+1296,2024-12-28,3,1,554.51,Organic Search,Wales
+1297,2024-11-25,36,4,765.49,Paid Social,Yorkshire
+1298,2024-12-26,5,1,512.7,Affiliate,East of England
+1299,2024-07-04,180,2,676.63,Organic Search,East of England
+1301,2024-12-16,15,6,2802.71,Paid Social,London
+1302,2024-10-30,62,3,442.47,Referral,North West
+1303,2024-12-30,1,1,198.78,Email,London
+1304,2024-09-12,110,1,698.38,Organic Search,West Midlands
+1305,2024-12-01,30,4,1087.73,Organic Search,Scotland
+1306,2024-12-04,27,7,1246.32,Affiliate,West Midlands
+1307,2024-11-24,37,3,490.7,Referral,Wales
+1309,2024-07-17,167,1,21.56,Email,Yorkshire
+1310,2024-12-04,27,1,178.46,Email,South East
+1311,2024-11-29,32,4,1780.17,Affiliate,East of England
+1313,2024-11-27,34,1,14.5,Referral,Scotland
+1314,2024-11-05,56,4,762.1,Direct,West Midlands
+1315,2024-12-26,5,1,1476.11,Paid Social,North West
+1316,2024-12-04,27,4,543.88,Organic Search,South West
+1319,2024-10-14,78,5,2356.89,Direct,North West
+1320,2024-09-15,107,1,1084.15,Organic Search,East of England
+1322,2024-11-14,47,10,2389.9,Direct,Yorkshire
+1323,2024-11-26,35,2,902.95,Email,London
+1325,2024-12-30,1,2,1385.93,Referral,North East
+1326,2024-12-03,28,7,3021.61,Direct,London
+1327,2024-12-29,2,2,1378.08,Referral,London
+1328,2024-03-16,290,3,99.01,Organic Search,Scotland
+1329,2024-11-13,48,7,2207.42,Referral,East of England
+1331,2024-12-16,15,1,18.48,Paid Social,Yorkshire
+1332,2023-11-14,413,1,359.64,Organic Search,London
+1333,2024-10-17,75,2,421.54,Referral,East of England
+1334,2024-12-11,20,5,2625.92,Email,North East
+1335,2024-09-10,112,7,2057.64,Organic Search,London
+1336,2024-12-31,0,2,333.67,Affiliate,North West
+1338,2024-06-25,189,1,470.29,Organic Search,North West
+1339,2024-11-29,32,1,444.64,Paid Social,Scotland
+1340,2024-08-15,138,1,576.33,Paid Social,Wales
+1341,2024-12-25,6,1,107.75,Direct,South East
+1343,2024-09-27,95,2,2212.7,Direct,North East
+1346,2024-04-01,274,2,129.26,Direct,London
+1348,2024-11-28,33,2,665.42,Paid Social,London
+1349,2024-12-23,8,3,301.67,Paid Social,West Midlands
+1350,2024-12-01,30,3,1255.12,Paid Social,West Midlands
+1351,2024-10-23,69,9,1760.58,Referral,South East
+1352,2024-12-09,22,4,560.02,Email,South East
+1353,2024-12-04,27,1,61.21,Organic Search,South West
+1355,2024-12-24,7,4,1203.94,Affiliate,London
+1356,2024-11-24,37,1,103.45,Direct,Yorkshire
+1357,2024-10-20,72,3,1583.48,Affiliate,East of England
+1358,2024-12-08,23,5,1369.76,Email,West Midlands
+1361,2024-12-04,27,3,998.04,Paid Social,South East
+1362,2024-12-09,22,3,1396.8,Organic Search,East of England
+1364,2024-12-02,29,6,645.01,Email,London
+1365,2024-09-02,120,6,1696.02,Email,London
+1366,2024-09-14,108,3,719.4,Referral,East of England
+1367,2024-10-24,68,2,460.22,Paid Social,South East
+1368,2024-12-10,21,5,1516.08,Paid Social,West Midlands
+1370,2024-12-05,26,1,333.18,Organic Search,London
+1372,2023-04-30,611,1,286.08,Affiliate,West Midlands
+1373,2024-06-25,189,2,461.82,Paid Social,Scotland
+1374,2024-10-31,61,8,2541.43,Direct,East of England
+1375,2024-12-27,4,2,313.73,Organic Search,London
+1376,2024-09-09,113,2,683.6,Organic Search,North West
+1378,2024-12-19,12,3,2064.85,Paid Social,South West
+1379,2024-09-14,108,1,271.82,Organic Search,South East
+1380,2024-09-13,109,1,582.13,Paid Social,South East
+1381,2024-11-04,57,8,1596.99,Organic Search,South East
+1382,2024-11-12,49,9,2840.15,Referral,South West
+1383,2024-04-29,246,2,1037.73,Direct,Wales
+1384,2023-10-02,456,2,288.49,Organic Search,South East
+1385,2024-12-14,17,1,283.08,Organic Search,North West
+1386,2024-12-14,17,5,787.51,Paid Social,London
+1387,2024-09-19,103,1,345.44,Email,London
+1388,2024-12-07,24,6,1201.02,Organic Search,London
+1390,2024-09-04,118,2,621.21,Paid Social,North East
+1391,2024-11-28,33,3,793.63,Email,South East
+1392,2024-11-29,32,4,868.08,Organic Search,North East
+1393,2024-11-21,40,4,2099.89,Email,South East
+1394,2024-11-05,56,6,659.13,Organic Search,London
+1396,2024-02-03,332,2,1738.59,Email,London
+1397,2024-12-02,29,4,2747.89,Affiliate,London
+1398,2024-11-09,52,1,479.41,Organic Search,Yorkshire
+1399,2024-11-26,35,5,1254.62,Organic Search,East of England
+1400,2024-11-14,47,4,739.55,Organic Search,North East
+1401,2024-08-19,134,2,1467.44,Paid Social,London
+1403,2024-09-16,106,2,1290.73,Affiliate,North West
+1405,2024-12-15,16,1,88.03,Paid Social,South West
+1406,2023-07-14,536,1,1766.69,Paid Social,North West
+1408,2024-12-21,10,2,1081.64,Paid Social,London
+1409,2024-12-23,8,4,467.11,Paid Social,North West
+1410,2024-10-11,81,1,558.3,Paid Social,North West
+1411,2024-12-01,30,1,20.04,Organic Search,West Midlands
+1412,2024-12-27,4,3,1177.52,Direct,North West
+1413,2024-12-17,14,5,1364.08,Email,North West
+1414,2024-11-28,33,4,1030.21,Email,North West
+1416,2024-05-11,234,4,2214.18,Paid Social,London
+1417,2024-04-02,273,3,1458.18,Organic Search,South East
+1418,2024-11-17,44,3,259.02,Referral,North West
+1419,2024-12-24,7,2,526.47,Organic Search,London
+1424,2024-09-11,111,1,241.88,Paid Social,Yorkshire
+1425,2024-10-30,62,5,867.86,Referral,London
+1426,2024-12-28,3,3,394.01,Direct,South West
+1427,2023-10-13,445,1,264.81,Direct,Yorkshire
+1429,2024-12-17,14,3,879.88,Direct,North West
+1431,2024-09-18,104,2,658.9,Organic Search,West Midlands
+1432,2024-12-01,30,2,160.07,Paid Social,Yorkshire
+1433,2024-11-01,60,3,852.53,Affiliate,East of England
+1434,2024-12-28,3,6,1766.15,Organic Search,South East
+1435,2024-06-21,193,2,483.99,Organic Search,Scotland
+1436,2024-12-11,20,2,37.52,Organic Search,South West
+1438,2024-11-09,52,5,2755.73,Paid Social,London
+1439,2024-09-19,103,3,1781.46,Direct,North West
+1440,2024-12-28,3,4,1668.58,Organic Search,North East
+1444,2024-08-01,152,1,915.77,Organic Search,North West
+1445,2024-12-16,15,4,2124.87,Email,London
+1447,2024-11-24,37,2,1694.7,Organic Search,West Midlands
+1450,2024-12-24,7,3,651.24,Direct,South East
+1452,2024-12-25,6,2,546.0,Paid Social,Yorkshire
+1453,2024-11-25,36,1,309.42,Referral,London
+1454,2024-12-16,15,6,1796.42,Affiliate,South East
+1455,2024-12-27,4,2,829.34,Organic Search,North East
+1456,2024-11-25,36,2,1014.97,Direct,West Midlands
+1457,2024-12-22,9,4,3391.29,Paid Social,South East
+1458,2024-12-26,5,1,35.89,Organic Search,East of England
+1460,2024-12-22,9,1,173.77,Direct,North West
+1461,2024-09-05,117,1,15.55,Affiliate,West Midlands
+1462,2024-08-02,151,3,1393.33,Organic Search,West Midlands
+1463,2024-12-14,17,2,289.79,Paid Social,East of England
+1464,2024-12-07,24,3,868.52,Referral,Scotland
+1465,2024-11-27,34,3,399.75,Direct,South West
+1466,2024-11-29,32,1,225.88,Paid Social,North West
+1467,2024-05-06,239,2,25.1,Email,North West
+1468,2024-07-22,162,3,1055.73,Paid Social,South West
+1470,2024-12-28,3,1,278.31,Referral,East of England
+1471,2024-10-17,75,1,24.31,Paid Social,Scotland
+1472,2024-11-08,53,1,191.29,Organic Search,London
+1473,2024-11-07,54,4,359.35,Organic Search,West Midlands
+1474,2024-11-27,34,2,628.64,Email,Scotland
+1475,2024-12-08,23,8,2908.82,Paid Social,South East
+1478,2024-11-27,34,7,1195.92,Email,South East
+1479,2024-08-17,136,2,1067.97,Email,South West
+1480,2024-11-10,51,5,1962.86,Affiliate,South East
+1481,2024-11-17,44,6,1233.08,Organic Search,North West
+1482,2024-12-26,5,1,27.01,Paid Social,London
+1483,2024-06-26,188,4,863.79,Organic Search,London
+1484,2024-11-23,38,3,273.43,Organic Search,East of England
+1486,2024-12-21,10,5,763.77,Paid Social,South West
+1487,2024-11-20,41,3,707.66,Organic Search,North West
+1488,2024-12-31,0,2,1091.41,Paid Social,Scotland
+1489,2024-09-27,95,3,412.84,Paid Social,Yorkshire
+1490,2024-12-29,2,2,1439.96,Organic Search,London
+1491,2024-11-16,45,4,2876.61,Direct,East of England
+1492,2024-11-29,32,4,935.92,Organic Search,South East
+1493,2024-06-21,193,5,2503.87,Paid Social,West Midlands
+1494,2024-12-10,21,3,595.99,Paid Social,London
+1495,2024-09-09,113,2,584.09,Paid Social,North West
+1496,2024-09-18,104,2,648.3,Email,North West
+1497,2024-11-29,32,2,286.65,Referral,London
+1498,2024-07-18,166,3,518.12,Paid Social,London
+1501,2024-08-16,137,1,255.28,Paid Social,Scotland
+1502,2024-12-23,8,2,941.27,Email,East of England
+1503,2024-10-20,72,1,88.86,Paid Social,London
+1504,2024-11-29,32,3,1223.37,Referral,Scotland
+1505,2024-10-01,91,3,653.69,Organic Search,Yorkshire
+1506,2024-12-13,18,1,508.15,Paid Social,North West
+1507,2024-12-08,23,1,699.77,Direct,South East
+1508,2024-12-30,1,2,714.19,Email,North West
+1509,2024-11-09,52,1,18.32,Direct,West Midlands
+1510,2024-03-04,302,1,27.08,Referral,West Midlands
+1513,2024-04-08,267,2,172.73,Direct,West Midlands
+1515,2024-08-02,151,5,569.46,Email,Wales
+1516,2024-12-29,2,2,172.2,Organic Search,London
+1517,2024-11-30,31,2,276.2,Affiliate,North West
+1518,2024-05-04,241,4,1314.48,Paid Social,London
+1519,2024-12-18,13,2,899.38,Email,West Midlands
+1520,2024-10-17,75,5,3138.52,Referral,North West
+1521,2024-12-25,6,3,3178.11,Organic Search,North East
+1522,2024-09-10,112,2,198.53,Paid Social,Wales
+1523,2024-11-12,49,1,14.14,Paid Social,South West
+1524,2024-12-16,15,4,1415.47,Direct,Scotland
+1525,2024-12-14,17,3,470.41,Organic Search,South East
+1526,2024-11-22,39,4,824.79,Organic Search,South West
+1527,2024-11-27,34,1,15.6,Direct,North West
+1531,2024-08-27,126,1,152.22,Email,Yorkshire
+1532,2023-11-03,424,1,86.0,Email,London
+1533,2024-11-22,39,5,2707.28,Direct,Scotland
+1534,2024-11-20,41,3,1388.04,Affiliate,North West
+1535,2024-11-28,33,2,573.92,Email,South West
+1537,2024-10-11,81,5,2273.54,Direct,London
+1540,2024-12-07,24,2,60.29,Organic Search,West Midlands
+1541,2024-12-10,21,2,1065.71,Paid Social,Scotland
+1542,2024-01-30,336,3,1443.73,Affiliate,North West
+1543,2024-12-30,1,4,1158.75,Referral,Yorkshire
+1545,2024-08-19,134,7,1676.4,Referral,South East
+1546,2024-10-30,62,2,158.24,Referral,North East
+1547,2024-11-29,32,1,243.73,Direct,South East
+1548,2024-12-28,3,1,34.47,Email,London
+1550,2024-02-11,324,2,215.43,Referral,West Midlands
+1551,2024-10-25,67,5,2452.43,Organic Search,London
+1552,2024-12-11,20,3,780.13,Organic Search,North West
+1553,2024-12-26,5,3,569.03,Organic Search,London
+1554,2024-12-03,28,1,1927.03,Email,Yorkshire
+1555,2024-12-10,21,2,1035.54,Affiliate,North West
+1556,2024-12-11,20,2,904.92,Organic Search,Wales
+1557,2024-09-12,110,1,711.68,Direct,London
+1558,2024-07-08,176,3,1831.31,Organic Search,London
+1559,2024-11-11,50,3,531.52,Affiliate,East of England
+1560,2024-10-18,74,5,2521.74,Organic Search,London
+1561,2024-12-26,5,1,430.66,Affiliate,London
+1562,2024-04-15,260,1,204.85,Paid Social,East of England
+1563,2024-11-25,36,2,121.37,Email,London
+1564,2023-08-19,500,2,278.85,Direct,London
+1565,2024-12-28,3,7,1946.85,Organic Search,South East
+1566,2024-12-03,28,3,1247.61,Paid Social,Wales
+1568,2024-12-01,30,2,1704.79,Paid Social,Yorkshire
+1569,2024-12-07,24,4,1164.28,Direct,North West
+1570,2024-12-14,17,1,685.89,Organic Search,North West
+1571,2024-11-28,33,3,1537.07,Organic Search,South East
+1572,2024-09-06,116,2,258.01,Paid Social,South East
+1573,2024-05-24,221,1,767.32,Direct,London
+1574,2024-12-10,21,2,880.94,Paid Social,London
+1575,2024-11-25,36,4,1483.29,Organic Search,Scotland
+1576,2024-12-01,30,3,1427.42,Paid Social,South East
+1577,2024-12-14,17,2,679.63,Paid Social,London
+1578,2024-11-05,56,6,1364.31,Organic Search,South East
+1579,2024-12-08,23,6,1971.05,Paid Social,South East
+1580,2024-12-19,12,4,469.67,Paid Social,Yorkshire
+1581,2024-12-08,23,1,13.93,Email,South East
+1582,2024-12-04,27,5,3377.1,Paid Social,North West
+1584,2024-11-16,45,4,1239.65,Organic Search,Scotland
+1586,2024-12-12,19,1,80.25,Organic Search,Yorkshire
+1587,2024-05-31,214,2,670.4,Organic Search,East of England
+1588,2024-02-13,322,1,385.08,Affiliate,West Midlands
+1589,2024-03-07,299,4,2801.42,Organic Search,London
+1590,2024-12-17,14,5,1438.88,Referral,West Midlands
+1591,2024-12-03,28,3,2478.92,Direct,London
+1592,2024-07-12,172,3,1551.5,Organic Search,Scotland
+1593,2024-11-22,39,5,2196.93,Paid Social,North West
+1594,2024-11-23,38,3,741.64,Direct,London
+1595,2024-11-25,36,1,11.36,Affiliate,London
+1596,2024-11-25,36,4,626.59,Organic Search,North East
+1597,2024-11-28,33,6,1949.41,Paid Social,South East
+1598,2023-05-31,580,1,210.7,Paid Social,West Midlands
+1599,2024-12-28,3,3,1492.94,Paid Social,South West
+1600,2024-12-28,3,6,1212.85,Direct,London
+1601,2023-11-12,415,2,429.05,Affiliate,Yorkshire
+1602,2024-12-31,0,5,1526.13,Email,North West
+1603,2024-09-27,95,1,545.02,Organic Search,South East
+1604,2024-10-18,74,2,397.71,Email,East of England
+1606,2024-09-08,114,1,11.87,Organic Search,North East
+1607,2024-07-01,183,1,201.95,Paid Social,South West
+1608,2024-12-28,3,3,507.65,Paid Social,Scotland
+1609,2024-12-10,21,3,1189.81,Direct,South East
+1610,2024-10-19,73,2,903.22,Paid Social,Wales
+1611,2024-11-22,39,1,156.98,Organic Search,North West
+1612,2024-11-06,55,4,930.99,Organic Search,London
+1613,2024-11-27,34,2,108.76,Organic Search,South East
+1614,2024-09-15,107,6,1572.24,Email,North West
+1615,2024-08-20,133,3,1152.33,Organic Search,West Midlands
+1616,2024-12-05,26,3,1347.38,Email,West Midlands
+1617,2024-11-25,36,3,334.08,Paid Social,West Midlands
+1620,2024-12-08,23,6,1070.1,Organic Search,South West
+1621,2024-11-25,36,2,242.13,Email,London
+1623,2024-12-31,0,7,1918.85,Organic Search,North West
+1624,2024-10-27,65,3,1053.69,Direct,West Midlands
+1625,2024-12-21,10,3,222.71,Referral,London
+1626,2024-10-19,73,2,311.83,Email,London
+1628,2024-11-03,58,6,3123.96,Direct,North East
+1629,2024-09-27,95,1,27.66,Affiliate,London
+1631,2024-11-21,40,1,495.36,Direct,London
+1632,2024-11-27,34,2,138.26,Paid Social,London
+1633,2024-05-15,230,2,107.97,Paid Social,South East
+1634,2024-07-19,165,2,1092.65,Paid Social,Wales
+1635,2024-03-29,277,3,891.6,Email,West Midlands
+1636,2024-11-26,35,5,1012.19,Paid Social,North West
+1637,2024-10-28,64,2,449.49,Paid Social,Yorkshire
+1638,2023-09-23,465,2,385.14,Referral,South East
+1639,2024-11-18,43,1,265.33,Direct,Scotland
+1640,2024-09-11,111,3,376.23,Organic Search,South West
+1641,2024-11-28,33,2,224.0,Email,Scotland
+1642,2024-12-23,8,3,338.92,Direct,Scotland
+1643,2024-12-11,20,2,656.88,Organic Search,Yorkshire
+1645,2024-08-09,144,7,1410.01,Affiliate,London
+1646,2024-11-10,51,5,673.42,Affiliate,Yorkshire
+1647,2024-12-05,26,3,478.43,Affiliate,Yorkshire
+1648,2024-12-26,5,5,290.67,Paid Social,South West
+1649,2023-11-25,402,4,2747.18,Affiliate,North West
+1650,2024-08-13,140,2,207.29,Organic Search,Scotland
+1651,2024-12-11,20,4,1378.56,Organic Search,West Midlands
+1652,2024-12-07,24,3,1023.02,Organic Search,London
+1653,2024-11-27,34,6,673.51,Organic Search,North West
+1656,2024-09-22,100,3,551.8,Paid Social,North West
+1657,2024-11-24,37,2,589.19,Organic Search,North West
+1658,2024-12-18,13,1,644.23,Direct,West Midlands
+1659,2024-12-27,4,5,823.27,Email,South East
+1660,2024-12-25,6,1,204.57,Organic Search,North West
+1661,2024-11-06,55,2,548.54,Direct,South West
+1663,2024-11-15,46,1,750.94,Organic Search,West Midlands
+1664,2024-12-07,24,5,2735.49,Paid Social,North East
+1665,2024-09-26,96,5,2074.54,Organic Search,North West
+1667,2024-03-12,294,2,486.58,Referral,Scotland
+1668,2024-11-27,34,2,265.0,Organic Search,East of England
+1669,2024-12-05,26,3,322.53,Direct,Wales
+1670,2024-08-31,122,3,1520.57,Organic Search,North West
+1671,2024-06-23,191,2,301.24,Organic Search,London
+1672,2024-12-15,16,5,1040.9,Referral,South West
+1674,2024-08-12,141,3,392.62,Paid Social,South West
+1676,2024-12-08,23,2,483.29,Paid Social,Wales
+1677,2024-12-27,4,5,2541.09,Affiliate,London
+1678,2024-11-26,35,3,294.92,Organic Search,Scotland
+1680,2024-12-11,20,1,155.65,Referral,South West
+1681,2023-07-25,525,1,196.88,Organic Search,West Midlands
+1684,2024-06-25,189,3,946.82,Paid Social,Yorkshire
+1685,2024-09-11,111,4,270.18,Direct,East of England
+1686,2024-11-11,50,2,307.2,Paid Social,North West
+1687,2024-11-04,57,2,1195.78,Referral,London
+1689,2024-08-08,145,2,340.24,Paid Social,London
+1690,2024-12-18,13,1,214.07,Organic Search,London
+1691,2024-10-22,70,3,792.42,Email,North West
+1692,2024-10-19,73,4,496.2,Affiliate,Yorkshire
+1693,2024-04-18,257,6,1097.89,Organic Search,South East
+1694,2024-12-31,0,4,1194.18,Direct,Yorkshire
+1695,2024-12-05,26,1,115.44,Paid Social,North West
+1696,2024-11-22,39,1,612.56,Paid Social,Scotland
+1697,2024-11-11,50,2,2110.9,Paid Social,East of England
+1698,2024-12-27,4,2,522.97,Organic Search,London
+1699,2024-06-24,190,4,1472.23,Organic Search,East of England
+1700,2024-11-06,55,1,126.47,Email,North West
+1701,2024-11-13,48,6,3246.93,Paid Social,London
+1702,2024-12-30,1,3,2232.57,Paid Social,London
+1703,2024-11-03,58,1,297.73,Organic Search,London
+1704,2024-12-10,21,1,248.34,Organic Search,London
+1705,2024-12-23,8,4,1367.06,Organic Search,North West
+1706,2024-08-15,138,3,993.84,Referral,West Midlands
+1707,2024-12-07,24,2,1002.44,Affiliate,Yorkshire
+1708,2024-08-13,140,3,42.53,Paid Social,North West
+1709,2024-11-28,33,4,252.13,Organic Search,Scotland
+1711,2024-11-19,42,2,565.14,Email,West Midlands
+1712,2024-11-09,52,7,2235.44,Paid Social,South East
+1713,2024-04-12,263,2,385.7,Direct,North West
+1714,2024-10-04,88,3,1403.33,Email,North East
+1715,2024-11-28,33,3,1252.56,Organic Search,Wales
+1716,2024-10-18,74,4,1091.52,Organic Search,North West
+1717,2024-10-03,89,3,703.71,Paid Social,Scotland
+1718,2024-12-23,8,5,2408.92,Paid Social,London
+1719,2024-12-18,13,2,431.78,Organic Search,South East
+1720,2024-12-03,28,1,31.21,Organic Search,London
+1722,2024-09-21,101,4,766.07,Organic Search,South East
+1723,2024-12-31,0,5,2121.32,Organic Search,Scotland
+1724,2024-02-16,319,1,238.11,Email,London
+1728,2024-12-31,0,1,83.96,Referral,London
+1729,2024-05-05,240,4,1623.67,Affiliate,London
+1731,2024-12-03,28,3,1649.79,Affiliate,North West
+1732,2024-12-17,14,6,1899.42,Email,Yorkshire
+1733,2024-11-30,31,4,1521.03,Direct,East of England
+1735,2024-05-31,214,4,1859.11,Referral,London
+1736,2024-12-08,23,1,21.39,Organic Search,East of England
+1738,2024-12-23,8,5,1612.29,Direct,London
+1739,2024-10-14,78,1,144.81,Paid Social,South West
+1740,2024-08-27,126,2,713.13,Affiliate,North West
+1741,2024-12-19,12,7,2850.19,Email,South West
+1742,2024-11-23,38,4,467.59,Organic Search,London
+1744,2024-12-27,4,4,919.75,Email,Yorkshire
+1745,2024-09-30,92,4,587.61,Organic Search,London
+1746,2024-11-24,37,1,104.89,Paid Social,Yorkshire
+1747,2024-12-01,30,3,591.84,Organic Search,London
+1748,2024-11-23,38,4,1668.9,Paid Social,East of England
+1749,2024-12-22,9,5,1319.91,Direct,London
+1750,2023-12-08,389,2,143.14,Paid Social,London
+1751,2024-11-29,32,4,1230.92,Referral,London
+1752,2024-12-05,26,7,2168.46,Direct,London
+1753,2024-11-10,51,5,2145.18,Email,South East
+1754,2024-11-16,45,6,1340.8,Direct,Scotland
+1755,2024-10-22,70,1,173.21,Paid Social,Yorkshire
+1756,2024-03-23,283,2,665.93,Paid Social,North East
+1757,2024-11-09,52,6,1417.0,Email,East of England
+1758,2024-12-02,29,1,69.56,Direct,South West
+1759,2024-10-31,61,4,1474.75,Organic Search,North West
+1760,2023-04-05,636,1,33.03,Referral,London
+1761,2024-12-18,13,1,49.65,Paid Social,Yorkshire
+1762,2024-11-28,33,3,1801.55,Paid Social,South East
+1763,2024-09-15,107,4,718.24,Organic Search,North West
+1764,2024-11-24,37,1,33.1,Paid Social,North West
+1766,2024-11-18,43,5,1963.68,Affiliate,West Midlands
+1767,2024-03-16,290,2,336.78,Organic Search,London
+1768,2024-12-19,12,4,817.4,Paid Social,North West
+1769,2024-07-14,170,4,1481.24,Referral,North West
+1771,2024-07-02,182,3,987.37,Email,North West
+1772,2024-12-30,1,1,158.43,Email,North West
+1773,2024-12-27,4,5,1742.67,Email,London
+1774,2024-12-21,10,2,216.4,Referral,Wales
+1775,2024-11-17,44,2,313.87,Direct,London
+1776,2024-12-05,26,4,2121.97,Paid Social,North East
+1777,2024-08-21,132,2,603.96,Affiliate,North West
+1778,2024-12-11,20,9,1769.11,Email,East of England
+1781,2024-11-13,48,2,371.8,Referral,Yorkshire
+1782,2024-11-27,34,3,943.62,Paid Social,London
+1783,2024-11-29,32,3,603.42,Organic Search,North West
+1784,2024-12-20,11,8,1346.33,Referral,South West
+1785,2024-09-14,108,2,80.1,Organic Search,South East
+1786,2024-11-07,54,1,184.4,Paid Social,South East
+1787,2024-12-29,2,1,234.2,Paid Social,Wales
+1789,2024-11-13,48,4,838.79,Paid Social,Wales
+1790,2024-04-08,267,1,5.68,Organic Search,London
+1791,2024-12-12,19,3,207.4,Organic Search,South East
+1792,2024-04-18,257,3,371.52,Affiliate,Yorkshire
+1793,2024-12-09,22,5,2258.73,Paid Social,East of England
+1794,2024-12-01,30,7,2291.85,Paid Social,South West
+1795,2024-11-26,35,1,635.27,Paid Social,South East
+1797,2024-05-12,233,2,351.68,Organic Search,London
+1799,2024-12-13,18,2,625.2,Paid Social,East of England
+1800,2024-09-30,92,5,440.2,Organic Search,East of England
+1801,2024-11-25,36,2,323.16,Organic Search,South East
+1802,2024-12-12,19,4,2260.84,Organic Search,East of England
+1803,2024-11-23,38,1,32.22,Direct,London
+1804,2024-10-23,69,1,70.16,Organic Search,North West
+1805,2024-12-04,27,2,377.01,Organic Search,South West
+1806,2024-06-01,213,1,61.98,Direct,Yorkshire
+1807,2024-12-04,27,2,1201.02,Paid Social,London
+1808,2024-10-31,61,4,1245.82,Paid Social,Scotland
+1809,2024-05-12,233,1,396.1,Affiliate,West Midlands
+1810,2024-12-28,3,5,1279.27,Direct,South East
+1811,2024-12-02,29,3,387.49,Referral,London
+1812,2024-12-25,6,2,517.23,Direct,North West
+1815,2024-05-17,228,3,1271.29,Direct,South West
+1816,2024-12-20,11,6,2065.05,Affiliate,London
+1817,2024-11-10,51,6,850.0,Organic Search,Wales
+1818,2024-06-03,211,2,462.5,Direct,London
+1819,2024-12-13,18,7,1888.77,Organic Search,North West
+1821,2024-06-28,186,5,1163.8,Referral,London
+1822,2024-08-30,123,4,807.1,Direct,East of England
+1823,2024-12-03,28,5,2864.11,Paid Social,East of England
+1824,2024-12-15,16,1,444.52,Paid Social,London
+1825,2024-12-17,14,1,226.78,Direct,London
+1827,2024-10-30,62,1,116.69,Affiliate,Scotland
+1828,2024-11-27,34,4,824.63,Paid Social,East of England
+1829,2024-11-28,33,3,206.14,Direct,Scotland
+1830,2024-12-08,23,1,14.04,Referral,South East
+1831,2024-12-09,22,5,958.52,Paid Social,London
+1833,2024-12-06,25,10,2200.33,Email,South East
+1834,2024-10-27,65,3,258.71,Direct,London
+1835,2024-12-21,10,4,1357.25,Affiliate,South East
+1836,2024-12-27,4,2,405.92,Organic Search,Yorkshire
+1837,2024-10-28,64,1,541.93,Paid Social,London
+1838,2024-12-19,12,5,1792.16,Paid Social,South East
+1839,2024-11-09,52,3,772.67,Affiliate,London
+1840,2024-11-25,36,2,316.81,Organic Search,West Midlands
+1841,2024-11-23,38,5,2011.39,Affiliate,Scotland
+1842,2024-11-26,35,5,1379.87,Organic Search,South East
+1843,2024-12-28,3,5,870.25,Paid Social,Yorkshire
+1844,2024-12-23,8,5,3913.05,Referral,London
+1845,2024-09-29,93,1,511.39,Referral,London
+1846,2024-07-16,168,1,557.17,Email,West Midlands
+1847,2024-08-27,126,2,1277.69,Organic Search,Yorkshire
+1848,2024-10-12,80,4,1110.38,Paid Social,West Midlands
+1849,2024-11-28,33,2,310.51,Referral,North West
+1850,2024-11-23,38,7,2314.16,Affiliate,East of England
+1851,2024-05-27,218,2,1821.86,Paid Social,Scotland
+1853,2024-11-26,35,3,162.93,Referral,South West
+1854,2024-12-28,3,7,2257.14,Organic Search,Yorkshire
+1855,2024-10-01,91,3,243.92,Paid Social,South West
+1859,2024-07-09,175,1,127.68,Direct,West Midlands
+1860,2024-11-28,33,3,1048.88,Affiliate,South East
+1861,2024-11-25,36,2,1482.96,Organic Search,London
+1862,2024-12-11,20,3,992.23,Email,South East
+1863,2023-11-15,412,1,421.46,Organic Search,Yorkshire
+1864,2024-12-08,23,3,233.82,Paid Social,West Midlands
+1865,2024-11-28,33,1,64.3,Email,South West
+1866,2024-09-13,109,4,1882.83,Direct,North West
+1867,2024-11-27,34,3,242.41,Affiliate,Yorkshire
+1868,2024-12-07,24,3,1047.76,Paid Social,North West
+1869,2024-12-01,30,2,781.42,Paid Social,West Midlands
+1870,2024-08-26,127,4,1243.14,Organic Search,London
+1871,2024-12-07,24,5,1353.68,Organic Search,London
+1872,2024-11-22,39,1,395.73,Paid Social,South East
+1873,2024-12-07,24,3,1461.51,Affiliate,South East
+1874,2024-06-06,208,1,961.76,Organic Search,South West
+1875,2024-12-06,25,1,665.46,Affiliate,South East
+1876,2024-11-28,33,4,974.68,Direct,London
+1878,2024-12-03,28,1,1115.91,Organic Search,East of England
+1879,2024-12-04,27,2,247.49,Paid Social,Scotland
+1880,2023-11-26,401,1,13.39,Organic Search,North East
+1882,2024-12-26,5,4,875.6,Direct,South West
+1883,2024-11-29,32,2,547.62,Paid Social,London
+1884,2024-11-28,33,1,596.51,Email,South East
+1886,2024-03-24,282,2,304.4,Direct,Scotland
+1887,2024-12-23,8,2,419.67,Affiliate,Scotland
+1888,2024-11-26,35,7,3460.56,Organic Search,North West
+1889,2024-11-04,57,7,2407.05,Paid Social,East of England
+1890,2024-12-24,7,3,544.42,Referral,London
+1891,2024-10-15,77,2,215.63,Referral,London
+1892,2024-09-27,95,7,2944.5,Paid Social,Wales
+1893,2024-11-21,40,4,1071.62,Organic Search,Yorkshire
+1895,2024-11-23,38,7,2621.27,Direct,West Midlands
+1896,2024-11-12,49,5,969.5,Referral,North East
+1897,2024-12-05,26,5,1852.43,Affiliate,Wales
+1898,2024-12-09,22,11,5639.81,Organic Search,North West
+1900,2024-09-27,95,2,626.49,Affiliate,South West
+1901,2024-11-23,38,1,143.45,Referral,Yorkshire
+1902,2024-11-28,33,4,2069.79,Paid Social,North East
+1903,2024-12-15,16,1,1130.25,Direct,South East
+1905,2024-11-29,32,1,105.41,Paid Social,North West
+1907,2024-12-22,9,4,1550.25,Organic Search,South East
+1908,2024-12-02,29,2,94.88,Organic Search,North West
+1909,2024-11-04,57,1,662.24,Organic Search,London
+1910,2024-12-26,5,6,2792.21,Referral,London
+1912,2024-12-26,5,5,1372.45,Affiliate,Wales
+1913,2024-11-23,38,5,1815.03,Direct,Scotland
+1914,2024-12-06,25,5,1555.63,Organic Search,South West
+1915,2024-09-15,107,3,388.37,Referral,South East
+1916,2024-12-29,2,7,1113.88,Organic Search,Scotland
+1917,2024-09-13,109,2,732.87,Referral,London
+1918,2024-12-17,14,4,550.61,Organic Search,London
+1919,2024-12-06,25,5,1011.74,Paid Social,North West
+1920,2024-12-14,17,2,650.28,Referral,London
+1921,2024-08-15,138,2,473.43,Direct,Yorkshire
+1922,2024-05-06,239,3,1218.22,Organic Search,North East
+1923,2024-10-12,80,1,230.02,Organic Search,West Midlands
+1924,2024-12-07,24,1,179.56,Organic Search,London
+1926,2024-12-27,4,5,410.79,Affiliate,North West
+1927,2024-11-07,54,2,793.79,Organic Search,East of England
+1928,2023-11-25,402,3,1691.06,Organic Search,Scotland
+1929,2024-06-08,206,5,1046.95,Paid Social,Wales
+1930,2024-09-24,98,5,941.56,Organic Search,East of England
+1932,2024-12-15,16,7,1794.41,Affiliate,South East
+1933,2024-01-08,358,3,1424.98,Direct,West Midlands
+1934,2024-12-27,4,1,139.97,Referral,East of England
+1937,2024-10-12,80,1,208.58,Direct,North East
+1938,2024-11-21,40,10,1417.95,Email,Scotland
+1939,2024-11-29,32,4,2135.28,Paid Social,West Midlands
+1940,2024-12-17,14,7,2369.96,Email,London
+1941,2024-12-06,25,7,1797.77,Email,West Midlands
+1942,2024-10-11,81,4,2300.08,Paid Social,Yorkshire
+1945,2024-08-26,127,2,538.0,Paid Social,Scotland
+1946,2024-11-22,39,2,129.81,Email,Scotland
+1947,2024-12-23,8,4,1420.98,Direct,London
+1948,2024-11-25,36,3,622.5,Email,West Midlands
+1949,2024-12-08,23,7,972.81,Referral,Scotland
+1950,2024-12-04,27,4,1000.87,Organic Search,Scotland
+1951,2024-12-19,12,2,994.49,Organic Search,South West
+1952,2024-12-31,0,3,3394.09,Affiliate,South East
+1954,2024-10-28,64,3,722.23,Affiliate,North East
+1955,2024-10-27,65,2,84.82,Direct,South East
+1956,2024-05-19,226,1,102.56,Direct,North West
+1957,2024-12-23,8,4,1494.91,Organic Search,South West
+1958,2024-12-25,6,3,406.89,Organic Search,North East
+1959,2024-12-27,4,3,1609.41,Email,West Midlands
+1960,2024-10-16,76,1,1200.26,Paid Social,Scotland
+1961,2024-12-08,23,2,658.93,Direct,South West
+1962,2024-11-26,35,4,2444.64,Direct,London
+1963,2024-09-18,104,1,346.31,Referral,North West
+1964,2024-12-17,14,2,295.69,Organic Search,Scotland
+1965,2024-11-21,40,1,44.2,Referral,Yorkshire
+1966,2024-12-05,26,2,485.7,Referral,London
+1967,2024-12-21,10,5,1497.56,Paid Social,South East
+1968,2024-12-10,21,3,391.19,Paid Social,London
+1969,2024-10-27,65,3,720.82,Direct,South East
+1971,2024-12-02,29,5,1079.44,Organic Search,London
+1972,2024-12-27,4,4,856.55,Referral,Scotland
+1973,2024-12-22,9,5,564.91,Direct,West Midlands
+1975,2024-09-19,103,1,14.26,Referral,Yorkshire
+1976,2024-12-29,2,2,281.65,Direct,London
+1977,2024-12-30,1,7,2096.26,Organic Search,Scotland
+1978,2024-12-10,21,2,220.88,Paid Social,London
+1979,2024-12-27,4,1,214.37,Organic Search,West Midlands
+1980,2024-06-23,191,5,1658.29,Organic Search,London
+1983,2024-11-12,49,1,81.64,Organic Search,West Midlands
+1984,2024-09-25,97,1,46.14,Paid Social,West Midlands
+1986,2024-12-21,10,2,338.96,Paid Social,North West
+1987,2024-12-28,3,8,1316.91,Email,South East
+1988,2024-12-10,21,1,451.36,Organic Search,South East
+1989,2024-08-10,143,1,405.5,Direct,East of England
+1990,2024-07-15,169,1,224.44,Affiliate,London
+1991,2023-10-25,433,3,1222.34,Organic Search,Wales
+1993,2024-09-17,105,6,1146.21,Organic Search,Scotland
+1994,2024-12-10,21,1,736.15,Email,East of England
+1995,2024-10-29,63,4,582.72,Organic Search,Wales
+1996,2023-09-12,476,2,722.61,Referral,North West
+1997,2024-09-01,121,3,1002.12,Organic Search,North West
+1998,2024-08-12,141,4,631.66,Organic Search,Scotland
+1999,2024-12-16,15,5,1219.56,Affiliate,East of England
+2000,2024-12-14,17,2,247.36,Direct,South West
+2001,2024-10-19,73,1,139.13,Paid Social,North West
+2002,2024-10-28,64,3,1979.76,Affiliate,Scotland
+2003,2024-12-22,9,7,933.38,Organic Search,East of England
+2004,2024-12-15,16,1,55.53,Paid Social,South West
+2006,2024-12-26,5,2,904.92,Organic Search,Scotland
+2007,2024-11-16,45,2,1774.07,Paid Social,South East
+2008,2024-12-16,15,7,1118.96,Organic Search,Wales
+2011,2024-05-15,230,5,951.23,Paid Social,London
+2012,2024-09-01,121,4,1107.87,Paid Social,North East
+2014,2024-12-16,15,4,2121.07,Organic Search,East of England
+2015,2024-11-16,45,2,447.39,Organic Search,London
+2016,2024-12-06,25,3,923.31,Paid Social,Wales
+2017,2024-12-14,17,4,1381.16,Referral,North West
+2018,2024-07-15,169,4,2307.7,Organic Search,Scotland
+2019,2024-12-07,24,1,110.74,Organic Search,South West
+2020,2024-11-29,32,1,1194.48,Organic Search,East of England
+2023,2024-10-26,66,3,517.42,Paid Social,London
+2024,2024-12-29,2,3,336.33,Paid Social,South East
+2025,2024-08-11,142,3,335.73,Direct,London
+2026,2024-11-20,41,1,114.76,Affiliate,East of England
+2028,2024-11-25,36,5,2776.42,Direct,South West
+2029,2024-05-25,220,5,1966.87,Paid Social,South West
+2030,2024-11-19,42,5,1484.02,Email,South East
+2031,2024-11-28,33,3,956.57,Paid Social,Yorkshire
+2032,2024-12-30,1,5,1885.77,Affiliate,West Midlands
+2033,2024-12-14,17,2,1122.47,Direct,South West
+2035,2024-06-29,185,4,2097.49,Email,West Midlands
+2036,2024-12-22,9,9,3310.76,Organic Search,London
+2037,2024-03-05,301,1,192.95,Affiliate,North East
+2038,2024-12-04,27,2,962.44,Paid Social,South East
+2039,2024-09-01,121,3,2081.97,Organic Search,London
+2040,2024-12-21,10,5,568.67,Email,Yorkshire
+2041,2024-12-26,5,2,433.35,Paid Social,London
+2042,2024-10-29,63,1,373.35,Email,North West
+2043,2024-10-18,74,2,129.19,Organic Search,London
+2045,2024-11-23,38,2,1707.4,Paid Social,North East
+2046,2024-12-12,19,2,505.65,Affiliate,Scotland
+2047,2024-08-13,140,4,1067.89,Email,London
+2048,2024-10-05,87,1,139.67,Paid Social,Yorkshire
+2049,2024-11-29,32,1,642.99,Email,North West
+2050,2024-10-17,75,2,929.03,Organic Search,London
+2051,2024-11-29,32,5,1175.25,Affiliate,South West
+2052,2024-12-17,14,3,782.02,Referral,North East
+2053,2024-11-13,48,2,1074.48,Paid Social,Scotland
+2054,2024-12-14,17,4,1005.8,Referral,Scotland
+2056,2024-06-25,189,2,1051.41,Organic Search,North West
+2057,2024-12-08,23,3,204.53,Paid Social,North West
+2058,2024-12-15,16,3,622.14,Organic Search,Yorkshire
+2059,2024-09-27,95,2,1253.29,Email,South West
+2060,2024-07-06,178,5,2074.14,Paid Social,London
+2061,2024-12-27,4,5,673.98,Paid Social,Wales
+2062,2024-12-08,23,2,1864.36,Direct,East of England
+2063,2024-11-21,40,3,822.29,Referral,South East
+2064,2024-09-01,121,8,2072.69,Referral,North East
+2065,2024-12-28,3,3,1020.35,Paid Social,South West
+2066,2024-12-22,9,3,395.54,Paid Social,South East
+2067,2024-11-24,37,2,997.13,Affiliate,North West
+2068,2024-12-21,10,2,211.68,Paid Social,South West
+2069,2024-06-28,186,6,4012.31,Organic Search,North West
+2070,2024-08-26,127,1,26.67,Paid Social,North East
+2071,2024-12-12,19,3,1214.89,Email,London
+2074,2024-06-06,208,1,347.76,Email,Scotland
+2075,2024-11-27,34,3,1450.76,Direct,North West
+2076,2024-11-01,60,4,793.51,Direct,Scotland
+2077,2024-11-09,52,6,1948.26,Organic Search,West Midlands
+2078,2024-12-07,24,1,261.59,Referral,West Midlands
+2079,2024-12-08,23,2,90.64,Referral,South East
+2080,2024-08-30,123,2,287.95,Direct,Yorkshire
+2081,2024-10-24,68,1,331.7,Organic Search,South West
+2082,2024-08-27,126,1,323.66,Affiliate,London
+2083,2024-11-29,32,4,393.72,Paid Social,South East
+2084,2024-12-17,14,4,872.38,Email,London
+2087,2024-09-11,111,3,451.18,Affiliate,East of England
+2089,2023-12-15,382,4,1167.06,Organic Search,West Midlands
+2090,2024-11-27,34,2,106.11,Email,West Midlands
+2092,2024-11-01,60,1,661.59,Email,North West
+2093,2024-09-10,112,1,72.26,Organic Search,East of England
+2094,2024-12-23,8,1,21.55,Organic Search,South East
+2096,2024-12-25,6,2,157.38,Referral,Scotland
+2097,2024-11-22,39,1,266.97,Paid Social,Yorkshire
+2098,2024-12-11,20,1,291.31,Affiliate,South East
+2099,2024-12-28,3,1,739.34,Paid Social,South East
+2100,2024-12-31,0,2,415.74,Referral,West Midlands
+2101,2024-12-24,7,3,1310.82,Organic Search,South West
+2103,2024-11-10,51,1,450.5,Organic Search,London
+2104,2024-12-23,8,1,18.5,Referral,London
+2105,2024-09-22,100,2,485.7,Organic Search,London
+2106,2024-12-18,13,5,983.59,Organic Search,South East
+2107,2024-12-30,1,3,520.47,Organic Search,West Midlands
+2108,2024-12-26,5,2,239.96,Email,Scotland
+2110,2024-12-14,17,5,1130.16,Organic Search,South East
+2111,2024-09-17,105,1,730.48,Paid Social,West Midlands
+2112,2024-11-23,38,5,1005.06,Organic Search,Yorkshire
+2113,2024-12-26,5,1,2579.04,Organic Search,London
+2114,2024-12-29,2,4,2010.66,Organic Search,North West
+2115,2024-12-02,29,7,1564.6,Email,South West
+2117,2024-08-14,139,5,1158.44,Referral,West Midlands
+2118,2024-11-05,56,2,184.72,Direct,London
+2119,2024-12-26,5,2,1329.65,Organic Search,West Midlands
+2120,2024-06-22,192,3,1144.0,Direct,London
+2122,2024-12-23,8,1,200.95,Email,South East
+2125,2024-12-18,13,4,645.52,Direct,London
+2126,2024-12-02,29,2,1617.83,Referral,West Midlands
+2127,2024-11-25,36,3,78.06,Paid Social,West Midlands
+2128,2024-12-09,22,5,1395.72,Referral,West Midlands
+2129,2024-12-22,9,3,446.37,Organic Search,North West
+2130,2024-08-05,148,1,157.92,Organic Search,London
+2131,2024-12-17,14,1,91.89,Organic Search,West Midlands
+2133,2024-12-02,29,7,1719.51,Organic Search,North West
+2134,2024-11-13,48,4,511.55,Referral,East of England
+2135,2024-05-11,234,3,1861.5,Direct,North West
+2136,2024-03-06,300,1,232.28,Referral,North West
+2137,2024-11-24,37,1,38.96,Referral,Scotland
+2138,2024-12-22,9,6,3238.14,Organic Search,South East
+2139,2024-12-15,16,2,324.29,Email,Scotland
+2140,2024-11-15,46,8,2037.55,Paid Social,North West
+2141,2024-12-27,4,4,1380.47,Organic Search,Scotland
+2142,2024-12-21,10,1,433.51,Organic Search,South West
+2143,2024-10-30,62,4,817.01,Referral,North West
+2144,2024-12-22,9,2,1149.79,Paid Social,Yorkshire
+2145,2024-11-30,31,1,202.91,Affiliate,East of England
+2146,2024-05-01,244,4,560.9,Organic Search,Yorkshire
+2147,2024-11-24,37,3,489.02,Email,North West
+2148,2024-11-18,43,3,846.71,Referral,Yorkshire
+2149,2024-12-22,9,4,1270.01,Organic Search,South East
+2150,2024-06-08,206,2,268.8,Email,Yorkshire
+2151,2024-12-30,1,5,1014.74,Organic Search,London
+2152,2024-11-06,55,2,731.53,Paid Social,North East
+2153,2024-11-03,58,2,97.59,Email,London
+2154,2024-11-22,39,3,978.52,Affiliate,South West
+2155,2024-06-14,200,1,15.86,Paid Social,London
+2156,2024-11-20,41,6,2497.14,Email,London
+2157,2024-12-19,12,9,2498.47,Referral,London
+2159,2024-07-27,157,1,563.94,Referral,North East
+2160,2024-11-25,36,2,172.8,Direct,Wales
+2161,2024-09-01,121,1,11.96,Direct,West Midlands
+2162,2024-12-10,21,1,41.44,Paid Social,West Midlands
+2163,2024-07-18,166,2,383.12,Organic Search,South East
+2164,2024-11-27,34,3,838.4,Affiliate,South East
+2165,2024-12-06,25,3,578.75,Direct,London
+2166,2024-12-15,16,2,96.7,Email,London
+2167,2024-11-16,45,5,1003.62,Email,London
+2168,2023-12-19,378,2,277.08,Paid Social,Wales
+2171,2024-11-28,33,3,848.27,Organic Search,London
+2172,2023-12-10,387,2,1340.75,Referral,Wales
+2173,2024-11-21,40,3,735.96,Referral,North West
+2174,2024-08-11,142,1,648.05,Paid Social,London
+2175,2024-12-17,14,5,2148.46,Direct,London
+2177,2024-11-28,33,3,745.71,Direct,West Midlands
+2179,2024-11-27,34,3,519.32,Organic Search,East of England
+2181,2024-10-10,82,1,12.74,Referral,Scotland
+2182,2024-08-21,132,3,69.99,Paid Social,North West
+2184,2024-12-08,23,9,3107.78,Email,East of England
+2186,2024-10-20,72,1,195.67,Organic Search,London
+2188,2024-09-18,104,2,954.53,Paid Social,South East
+2189,2024-12-15,16,8,2188.64,Paid Social,London
+2190,2024-12-22,9,1,547.16,Paid Social,South East
+2191,2024-11-03,58,3,759.72,Direct,North East
+2192,2024-11-27,34,2,451.28,Affiliate,North West
+2193,2024-11-25,36,1,197.92,Organic Search,London
+2194,2024-12-17,14,2,367.33,Affiliate,West Midlands
+2195,2024-12-20,11,2,464.26,Affiliate,West Midlands
+2196,2024-10-26,66,6,756.6,Referral,Scotland
+2197,2024-12-09,22,5,1739.14,Organic Search,London
+2198,2024-06-16,198,2,1038.7,Organic Search,London
+2200,2024-01-10,356,2,1247.61,Organic Search,North West
+2203,2024-11-27,34,1,109.09,Email,West Midlands
+2204,2024-11-27,34,3,1013.38,Paid Social,Wales
+2205,2024-07-19,165,2,1417.6,Organic Search,North East
+2206,2024-10-21,71,4,1155.18,Direct,London
+2207,2024-11-19,42,2,766.56,Email,Wales
+2208,2024-12-07,24,6,1916.19,Organic Search,South East
+2209,2024-12-02,29,5,1423.35,Affiliate,South West
+2210,2024-04-09,266,3,840.43,Paid Social,South East
+2212,2024-06-14,200,3,822.6,Paid Social,North West
+2213,2024-08-13,140,2,1180.47,Email,Yorkshire
+2214,2024-12-29,2,3,593.89,Email,North West
+2215,2024-12-28,3,3,468.64,Direct,Wales
+2216,2024-12-31,0,3,547.42,Direct,London
+2217,2024-11-27,34,5,636.34,Affiliate,West Midlands
+2218,2024-08-03,150,4,1496.21,Organic Search,West Midlands
+2219,2024-12-12,19,5,1096.05,Organic Search,North West
+2221,2024-12-06,25,7,3175.9,Organic Search,North East
+2222,2024-10-13,79,1,37.46,Affiliate,West Midlands
+2223,2024-12-26,5,1,15.52,Direct,West Midlands
+2224,2024-12-01,30,1,156.03,Direct,Scotland
+2225,2024-12-15,16,2,872.46,Paid Social,South East
+2226,2024-12-24,7,3,418.19,Paid Social,South West
+2227,2024-11-25,36,2,1102.15,Referral,North East
+2228,2024-05-22,223,2,433.42,Affiliate,South East
+2229,2024-11-04,57,2,170.87,Affiliate,South West
+2230,2024-11-03,58,6,1140.98,Organic Search,North East
+2231,2024-09-20,102,5,1896.71,Organic Search,South East
+2232,2024-11-25,36,2,620.61,Direct,West Midlands
+2233,2024-12-11,20,3,1004.79,Organic Search,North East
+2234,2024-12-03,28,1,252.22,Organic Search,South East
+2235,2024-07-16,168,3,433.54,Paid Social,West Midlands
+2238,2024-12-20,11,1,89.08,Direct,London
+2239,2024-06-05,209,3,754.53,Referral,London
+2240,2024-11-28,33,3,1038.77,Organic Search,London
+2241,2024-05-07,238,1,319.77,Organic Search,Wales
+2242,2024-03-05,301,1,152.72,Organic Search,Wales
+2243,2024-12-15,16,8,4237.2,Email,Yorkshire
+2244,2024-10-18,74,5,1673.57,Referral,Scotland
+2245,2024-10-30,62,2,946.05,Paid Social,East of England
+2247,2024-12-23,8,4,1412.09,Email,South East
+2248,2024-02-13,322,1,984.05,Organic Search,Yorkshire
+2249,2024-04-06,269,1,80.55,Paid Social,London
+2252,2024-12-10,21,1,1142.14,Paid Social,Yorkshire
+2254,2024-12-12,19,4,1017.91,Paid Social,London
+2255,2024-11-28,33,3,1840.27,Paid Social,North West
+2256,2024-12-09,22,3,1151.92,Paid Social,East of England
+2257,2024-10-26,66,4,2270.47,Direct,West Midlands
+2258,2024-05-30,215,1,544.46,Referral,London
+2263,2024-10-23,69,1,19.96,Paid Social,North West
+2264,2024-12-12,19,4,1046.18,Referral,East of England
+2265,2024-11-22,39,5,2986.01,Direct,East of England
+2266,2024-10-16,76,2,2032.42,Email,South East
+2267,2024-09-29,93,1,300.37,Organic Search,South East
+2269,2024-11-29,32,3,1210.24,Referral,South East
+2271,2024-12-29,2,3,1349.09,Referral,Yorkshire
+2272,2024-10-30,62,3,1118.22,Email,London
+2273,2024-12-21,10,4,3161.44,Affiliate,South East
+2274,2024-11-08,53,3,773.38,Organic Search,London
+2275,2024-04-10,265,1,235.22,Organic Search,Wales
+2276,2024-12-10,21,6,900.71,Referral,South East
+2277,2024-11-03,58,2,220.43,Organic Search,Wales
+2278,2024-11-14,47,5,2110.91,Paid Social,North East
+2279,2024-11-04,57,1,37.83,Email,London
+2280,2024-12-06,25,4,883.47,Email,Wales
+2281,2024-12-28,3,5,1112.91,Paid Social,London
+2283,2024-12-07,24,3,1968.71,Organic Search,North West
+2285,2024-12-06,25,3,496.04,Organic Search,South East
+2287,2024-06-02,212,6,1867.85,Email,London
+2288,2024-11-09,52,5,1802.05,Email,Scotland
+2289,2024-11-17,44,3,912.57,Organic Search,London
+2290,2024-11-28,33,6,1128.51,Paid Social,Scotland
+2291,2024-12-28,3,3,2491.8,Paid Social,London
+2292,2024-06-18,196,6,1306.16,Paid Social,Yorkshire
+2293,2024-11-26,35,4,891.64,Paid Social,South East
+2294,2024-11-28,33,7,2050.28,Organic Search,South East
+2295,2024-12-24,7,2,553.17,Email,Yorkshire
+2296,2024-12-18,13,2,771.68,Referral,North West
+2297,2024-12-09,22,4,781.43,Paid Social,Wales
+2298,2024-10-19,73,3,1960.26,Paid Social,London
+2300,2024-11-26,35,1,440.56,Paid Social,North West
+2301,2024-11-02,59,4,677.45,Direct,Wales
+2302,2024-12-30,1,5,1515.66,Organic Search,Yorkshire
+2304,2024-11-28,33,2,963.42,Paid Social,South East
+2305,2024-12-19,12,4,2151.7,Referral,Scotland
+2306,2024-07-31,153,1,224.04,Email,Scotland
+2307,2024-12-18,13,2,520.92,Paid Social,Scotland
+2308,2024-12-08,23,7,1733.29,Direct,London
+2309,2024-05-31,214,7,1684.99,Organic Search,London
+2310,2024-11-19,42,3,1385.76,Paid Social,West Midlands
+2311,2024-10-08,84,1,10.61,Email,London
+2312,2024-12-14,17,6,866.16,Paid Social,North West
+2313,2024-11-24,37,2,826.61,Email,Yorkshire
+2314,2024-12-29,2,3,1605.84,Organic Search,London
+2315,2024-11-09,52,1,1611.1,Referral,Scotland
+2316,2024-11-29,32,5,466.18,Email,South East
+2317,2023-11-26,401,1,74.81,Affiliate,South East
+2320,2024-11-28,33,2,204.94,Affiliate,Yorkshire
+2321,2024-12-26,5,6,1154.59,Referral,South East
+2322,2024-12-26,5,2,58.36,Referral,South East
+2323,2024-11-13,48,3,844.9,Organic Search,West Midlands
+2324,2024-12-19,12,4,1407.08,Paid Social,West Midlands
+2325,2024-11-27,34,4,3329.18,Organic Search,West Midlands
+2326,2024-12-11,20,2,161.84,Organic Search,Yorkshire
+2327,2024-11-24,37,1,403.7,Email,Yorkshire
+2329,2024-10-18,74,8,3028.92,Paid Social,South East
+2330,2024-12-17,14,2,267.72,Organic Search,East of England
+2331,2024-11-17,44,2,330.84,Email,South East
+2332,2024-11-24,37,1,427.76,Referral,North West
+2333,2024-10-09,83,6,672.53,Paid Social,London
+2334,2024-09-15,107,4,1360.16,Organic Search,North West
+2335,2024-10-25,67,3,1495.33,Paid Social,North West
+2336,2024-12-02,29,6,3144.12,Referral,London
+2337,2024-12-07,24,1,99.69,Organic Search,East of England
+2338,2024-12-15,16,2,972.93,Referral,London
+2339,2024-04-27,248,1,16.3,Organic Search,South East
+2341,2024-10-20,72,1,56.6,Paid Social,Yorkshire
+2342,2024-11-15,46,8,2560.01,Affiliate,East of England
+2343,2024-12-05,26,2,407.92,Organic Search,Scotland
+2344,2024-11-11,50,7,1338.65,Referral,West Midlands
+2345,2024-11-28,33,4,902.21,Organic Search,South East
+2346,2024-03-26,280,2,2183.25,Referral,Yorkshire
+2347,2024-12-15,16,10,2637.99,Affiliate,London
+2349,2024-11-08,53,4,1816.51,Referral,Wales
+2350,2024-11-25,36,5,1128.22,Organic Search,East of England
+2351,2024-02-23,312,5,1800.51,Paid Social,Wales
+2352,2024-12-20,11,2,1139.15,Organic Search,North East
+2353,2024-07-30,154,1,1068.28,Direct,East of England
+2354,2024-12-04,27,3,1336.16,Organic Search,South East
+2355,2024-11-08,53,1,562.54,Referral,London
+2356,2024-11-19,42,5,787.61,Direct,Wales
+2357,2024-11-22,39,2,332.29,Direct,West Midlands
+2358,2023-12-09,388,1,233.55,Organic Search,London
+2359,2024-12-04,27,6,2543.38,Paid Social,London
+2360,2024-10-01,91,1,103.47,Email,Scotland
+2361,2024-12-01,30,1,122.23,Organic Search,Wales
+2362,2024-12-25,6,4,882.01,Referral,North West
+2364,2024-11-22,39,3,591.83,Affiliate,West Midlands
+2365,2024-11-22,39,3,762.06,Paid Social,South West
+2366,2024-11-26,35,3,692.74,Organic Search,South East
+2367,2024-12-02,29,1,373.03,Organic Search,London
+2368,2024-08-10,143,3,255.23,Affiliate,North West
+2369,2024-09-07,115,3,799.48,Referral,London
+2370,2024-01-10,356,1,75.65,Affiliate,London
+2371,2024-12-22,9,4,752.91,Direct,London
+2372,2024-10-05,87,3,397.47,Paid Social,London
+2373,2024-11-30,31,3,2161.92,Direct,South East
+2374,2024-07-03,181,3,1157.96,Organic Search,South East
+2375,2024-08-31,122,6,746.55,Affiliate,East of England
+2376,2024-12-14,17,2,980.25,Paid Social,London
+2377,2024-12-07,24,3,1477.34,Paid Social,Scotland
+2378,2024-09-15,107,4,3285.44,Organic Search,Scotland
+2379,2024-12-04,27,4,1972.31,Organic Search,London
+2380,2024-09-29,93,1,765.2,Email,South West
+2381,2023-11-05,422,2,1029.66,Referral,Scotland
+2382,2024-06-23,191,2,135.99,Paid Social,North West
+2383,2024-12-17,14,4,1209.62,Referral,Scotland
+2384,2024-09-28,94,3,234.57,Affiliate,Yorkshire
+2385,2024-06-18,196,1,60.16,Email,London
+2386,2024-11-21,40,1,212.32,Referral,West Midlands
+2387,2024-12-06,25,2,1134.67,Organic Search,South West
+2388,2024-12-19,12,1,270.58,Paid Social,Yorkshire
+2389,2024-11-14,47,4,2297.95,Direct,South East
+2390,2024-11-10,51,5,1964.18,Direct,North East
+2391,2024-12-10,21,3,793.55,Email,North East
+2392,2024-11-28,33,6,688.85,Organic Search,North West
+2393,2024-09-29,93,5,1052.27,Email,London
+2395,2024-11-22,39,2,296.42,Direct,West Midlands
+2396,2024-12-05,26,2,488.61,Organic Search,East of England
+2397,2024-09-08,114,4,3599.4,Direct,West Midlands
+2398,2024-06-29,185,1,510.2,Affiliate,London
+2399,2024-11-11,50,4,380.42,Email,North West
+2401,2024-09-17,105,3,534.1,Organic Search,Wales
+2402,2024-12-24,7,4,1118.3,Organic Search,London
+2403,2024-10-04,88,1,78.02,Direct,London
+2404,2024-12-16,15,3,1328.98,Referral,North West
+2406,2024-09-19,103,5,920.56,Organic Search,East of England
+2407,2024-09-29,93,6,1395.82,Email,Wales
+2409,2024-12-15,16,1,293.97,Direct,London
+2410,2024-12-27,4,4,390.89,Referral,West Midlands
+2412,2024-07-11,173,4,1134.98,Organic Search,London
+2413,2024-12-20,11,7,2346.63,Paid Social,East of England
+2414,2024-12-04,27,3,356.51,Direct,South East
+2415,2024-11-03,58,5,1265.24,Referral,East of England
+2417,2024-12-20,11,3,161.04,Organic Search,West Midlands
+2418,2024-12-12,19,3,1058.25,Direct,West Midlands
+2419,2024-12-22,9,1,535.28,Paid Social,South East
+2421,2024-10-28,64,8,2881.86,Organic Search,London
+2422,2024-10-06,86,1,72.84,Organic Search,South East
+2423,2024-12-13,18,3,694.46,Referral,Wales
+2424,2024-10-18,74,3,3187.51,Email,South East
+2425,2024-09-10,112,1,15.35,Organic Search,Scotland
+2426,2024-03-06,300,2,218.26,Email,North East
+2427,2024-12-27,4,7,1826.13,Paid Social,North East
+2428,2024-10-28,64,4,788.77,Organic Search,North West
+2429,2024-09-29,93,4,442.5,Direct,South East
+2430,2024-12-05,26,1,554.38,Email,London
+2431,2024-12-09,22,6,1082.2,Organic Search,London
+2432,2024-12-21,10,6,2634.55,Organic Search,London
+2433,2024-12-11,20,3,3385.96,Organic Search,London
+2434,2024-09-19,103,3,471.93,Organic Search,London
+2436,2024-11-26,35,3,3497.82,Email,North West
+2437,2024-12-31,0,3,784.94,Organic Search,Yorkshire
+2438,2024-11-26,35,2,242.24,Paid Social,West Midlands
+2440,2024-11-23,38,5,660.08,Organic Search,West Midlands
+2441,2024-12-15,16,1,49.05,Paid Social,London
+2442,2024-11-22,39,3,648.8,Organic Search,South West
+2443,2024-12-05,26,5,1568.33,Direct,West Midlands
+2444,2024-07-10,174,2,619.57,Direct,South East
+2446,2024-11-24,37,7,1733.02,Email,South East
+2447,2024-10-15,77,3,233.7,Paid Social,South West
+2448,2024-09-18,104,4,1082.8,Organic Search,South West
+2449,2024-09-08,114,5,1125.01,Paid Social,West Midlands
+2450,2024-12-07,24,6,1765.4,Referral,East of England
+2452,2024-12-18,13,5,3226.24,Referral,South East
+2453,2024-08-18,135,2,210.64,Referral,West Midlands
+2454,2024-12-06,25,4,1775.5,Paid Social,South East
+2455,2024-10-05,87,1,279.38,Email,East of England
+2456,2024-12-26,5,7,1837.63,Paid Social,North West
+2457,2024-12-09,22,7,2132.72,Organic Search,South West
+2458,2023-10-25,433,1,380.69,Direct,Scotland
+2459,2024-12-27,4,1,442.27,Paid Social,Yorkshire
+2460,2024-11-29,32,3,1660.81,Organic Search,North West
+2461,2024-12-30,1,7,2386.28,Email,Yorkshire
+2462,2024-06-23,191,1,489.22,Organic Search,London
+2463,2024-12-14,17,1,89.71,Email,London
+2465,2024-12-10,21,2,215.86,Paid Social,Scotland
+2466,2024-12-22,9,2,340.15,Affiliate,South East
+2467,2024-06-03,211,3,1739.09,Affiliate,South East
+2469,2024-11-20,41,3,908.54,Affiliate,Yorkshire
+2471,2024-04-25,250,1,782.74,Paid Social,Scotland
+2472,2024-12-23,8,5,1837.26,Affiliate,East of England
+2475,2024-09-26,96,1,65.24,Direct,East of England
+2477,2024-12-03,28,3,2390.47,Paid Social,London
+2478,2024-12-13,18,4,698.4,Affiliate,South East
+2479,2024-11-29,32,2,624.22,Organic Search,South West
+2480,2024-11-27,34,2,207.99,Email,London
+2482,2024-11-29,32,1,2314.76,Paid Social,West Midlands
+2483,2024-11-26,35,1,1124.03,Paid Social,West Midlands
+2484,2024-10-17,75,3,1269.27,Direct,East of England
+2485,2024-12-26,5,1,36.8,Direct,Yorkshire
+2486,2024-11-24,37,6,1620.0,Organic Search,Wales
+2488,2024-08-28,125,3,347.5,Organic Search,North East
+2489,2024-12-05,26,5,1546.31,Email,London
+2490,2024-11-27,34,3,579.68,Email,South East
+2491,2024-10-09,83,2,1321.99,Paid Social,Scotland
+2492,2024-12-05,26,2,33.38,Organic Search,South West
+2493,2024-10-22,70,1,310.26,Direct,Scotland
+2494,2023-04-16,625,1,117.4,Organic Search,London
+2495,2024-11-21,40,7,1354.38,Direct,East of England
+2496,2024-12-15,16,6,1405.04,Organic Search,London
+2497,2024-12-06,25,3,752.55,Organic Search,Yorkshire
+2498,2024-12-21,10,6,2142.47,Organic Search,Scotland
+2500,2024-11-27,34,2,210.51,Affiliate,East of England
+2502,2024-11-28,33,1,88.75,Organic Search,North West
+2503,2024-06-13,201,1,441.04,Paid Social,London
+2505,2024-11-22,39,5,859.71,Email,South East
+2507,2024-12-28,3,4,1877.9,Referral,North West
+2508,2023-11-29,398,2,282.9,Organic Search,London
+2509,2024-12-10,21,5,2768.4,Organic Search,South East
+2510,2024-11-27,34,1,179.71,Affiliate,West Midlands
+2511,2024-05-13,232,1,48.5,Paid Social,North West
+2512,2024-12-12,19,5,1678.37,Referral,South East
+2515,2024-11-26,35,2,757.47,Organic Search,Wales
+2516,2024-12-15,16,4,377.23,Affiliate,London
+2517,2024-04-27,248,3,264.42,Paid Social,London
+2518,2024-12-03,28,1,382.35,Referral,Yorkshire
+2519,2024-09-12,110,1,116.2,Paid Social,London
+2520,2024-12-02,29,3,801.4,Paid Social,North West
+2521,2024-06-20,194,1,39.98,Paid Social,London
+2522,2024-04-16,259,2,796.82,Email,Yorkshire
+2523,2024-12-22,9,5,520.31,Organic Search,West Midlands
+2524,2024-09-02,120,1,172.9,Email,Scotland
+2525,2024-12-07,24,1,186.9,Affiliate,North West
+2527,2024-12-12,19,1,26.08,Direct,South West
+2528,2024-12-23,8,1,390.69,Organic Search,London
+2529,2024-11-25,36,5,691.72,Direct,Yorkshire
+2530,2024-11-08,53,3,908.79,Direct,South East
+2531,2024-10-05,87,1,42.59,Direct,London
+2532,2024-12-17,14,2,282.76,Affiliate,East of England
+2533,2024-05-09,236,1,191.35,Direct,West Midlands
+2534,2024-12-26,5,5,1921.95,Paid Social,London
+2535,2024-12-24,7,5,1507.42,Referral,North West
+2536,2024-12-31,0,2,249.03,Paid Social,North East
+2537,2024-11-01,60,5,356.51,Paid Social,London
+2538,2024-11-28,33,3,151.69,Organic Search,London
+2539,2024-09-18,104,3,1850.27,Email,South East
+2540,2024-06-18,196,2,1867.91,Referral,South West
+2541,2024-12-01,30,2,253.61,Paid Social,South East
+2542,2024-11-18,43,2,253.62,Organic Search,Yorkshire
+2543,2024-12-09,22,1,141.19,Direct,South East
+2544,2024-12-14,17,2,232.04,Email,London
+2546,2024-01-14,352,1,581.9,Direct,Scotland
+2548,2024-09-06,116,1,502.51,Email,West Midlands
+2551,2024-12-08,23,7,2421.02,Direct,Wales
+2552,2024-11-26,35,5,1567.39,Organic Search,London
+2553,2023-12-17,380,1,17.7,Paid Social,West Midlands
+2554,2024-11-26,35,5,2507.33,Direct,North West
+2555,2024-10-04,88,5,1447.57,Direct,South East
+2556,2023-11-26,401,1,378.8,Paid Social,London
+2557,2024-11-26,35,3,780.0,Referral,West Midlands
+2559,2024-11-16,45,4,1661.26,Paid Social,London
+2560,2024-04-10,265,1,84.86,Organic Search,South East
+2561,2024-12-07,24,8,1571.45,Referral,West Midlands
+2562,2024-11-18,43,4,1101.59,Organic Search,Wales
+2563,2024-12-27,4,2,509.84,Referral,North West
+2564,2024-04-06,269,1,132.67,Organic Search,East of England
+2566,2024-09-17,105,2,494.77,Direct,Yorkshire
+2568,2024-07-13,171,2,1139.94,Organic Search,London
+2572,2024-12-17,14,1,151.03,Organic Search,London
+2573,2024-08-17,136,5,1921.61,Direct,North West
+2574,2024-10-26,66,7,1239.31,Affiliate,Scotland
+2575,2024-05-25,220,2,258.95,Organic Search,North West
+2576,2024-11-30,31,1,1257.7,Referral,Scotland
+2577,2024-08-26,127,1,42.15,Email,North East
+2579,2024-11-21,40,5,2280.06,Affiliate,London
+2581,2024-12-31,0,3,1629.28,Organic Search,North West
+2582,2024-12-16,15,6,1831.3,Organic Search,London
+2583,2024-05-25,220,2,151.97,Paid Social,North East
+2585,2024-12-11,20,5,1016.14,Organic Search,South West
+2586,2024-12-29,2,4,3124.7,Affiliate,East of England
+2587,2023-11-03,424,3,480.61,Organic Search,Wales
+2588,2024-11-17,44,3,489.47,Direct,Wales
+2590,2024-12-22,9,3,624.01,Organic Search,Scotland
+2591,2024-12-22,9,2,668.84,Affiliate,Scotland
+2592,2024-10-04,88,1,89.94,Paid Social,North West
+2593,2024-11-28,33,2,137.14,Organic Search,West Midlands
+2594,2024-12-27,4,2,833.54,Affiliate,West Midlands
+2595,2024-11-17,44,1,150.73,Email,South East
+2596,2024-12-16,15,7,4014.46,Direct,London
+2597,2024-12-11,20,3,345.38,Email,London
+2598,2024-12-15,16,5,1589.94,Referral,North West
+2599,2024-07-28,156,2,58.88,Email,South East
+2600,2024-11-30,31,5,2146.14,Direct,London
+2601,2024-11-24,37,1,92.47,Email,Wales
+2603,2024-12-25,6,1,999.67,Email,London
+2604,2024-10-14,78,1,35.13,Paid Social,South East
+2605,2024-12-02,29,1,84.0,Paid Social,Wales
+2606,2024-09-01,121,4,556.32,Paid Social,South East
+2608,2024-12-15,16,4,1456.36,Direct,North West
+2609,2024-10-07,85,4,1263.34,Organic Search,London
+2610,2024-10-05,87,1,83.8,Affiliate,North West
+2611,2024-12-15,16,6,1957.61,Email,North West
+2612,2024-11-03,58,1,134.04,Affiliate,East of England
+2614,2024-12-18,13,3,1019.06,Direct,South East
+2615,2024-12-01,30,1,21.5,Email,East of England
+2616,2024-12-29,2,2,1715.36,Paid Social,South West
+2617,2024-12-20,11,4,655.07,Organic Search,East of England
+2618,2024-11-26,35,1,11.96,Paid Social,West Midlands
+2619,2024-07-15,169,6,2482.99,Paid Social,London
+2620,2024-12-06,25,1,374.51,Organic Search,London
+2621,2024-12-09,22,7,2587.72,Organic Search,Yorkshire
+2622,2024-12-01,30,1,266.72,Email,South East
+2623,2024-02-05,330,2,514.72,Paid Social,South East
+2624,2024-12-04,27,4,1295.67,Organic Search,London
+2625,2024-12-06,25,6,1696.67,Direct,North West
+2626,2024-12-06,25,2,101.39,Paid Social,North East
+2628,2023-11-22,405,2,578.29,Organic Search,South East
+2630,2024-11-10,51,2,478.62,Paid Social,North West
+2631,2024-10-14,78,1,249.24,Paid Social,North West
+2632,2024-12-19,12,1,695.67,Paid Social,Yorkshire
+2633,2024-12-24,7,2,628.22,Referral,West Midlands
+2635,2023-11-04,423,2,2874.16,Email,South East
+2636,2024-10-07,85,2,1376.99,Organic Search,South West
+2638,2024-10-04,88,7,3009.49,Affiliate,Wales
+2641,2024-12-11,20,3,821.09,Paid Social,London
+2642,2024-05-30,215,1,226.99,Paid Social,London
+2643,2024-12-22,9,5,387.56,Paid Social,East of England
+2644,2024-09-15,107,2,144.72,Referral,South West
+2645,2024-10-15,77,5,875.91,Affiliate,South East
+2646,2024-10-05,87,3,591.28,Organic Search,London
+2647,2024-12-27,4,5,2464.3,Paid Social,North West
+2648,2024-12-18,13,8,3014.19,Paid Social,London
+2650,2024-12-08,23,1,113.04,Paid Social,West Midlands
+2652,2024-12-10,21,2,847.57,Organic Search,London
+2653,2024-11-23,38,3,3307.83,Paid Social,South East
+2654,2024-12-08,23,4,926.7,Email,North East
+2655,2024-12-24,7,4,1591.34,Referral,South West
+2657,2024-08-13,140,1,81.7,Direct,West Midlands
+2658,2024-11-19,42,1,689.08,Paid Social,South West
+2660,2024-11-27,34,1,1415.3,Referral,South West
+2661,2024-12-23,8,2,950.41,Paid Social,South East
+2662,2024-10-27,65,2,366.97,Referral,North West
+2663,2024-12-30,1,4,916.21,Organic Search,London
+2664,2024-09-14,108,8,5459.39,Organic Search,East of England
+2665,2024-08-20,133,1,187.54,Paid Social,Scotland
+2666,2024-06-23,191,7,1228.32,Paid Social,West Midlands
+2668,2024-10-06,86,5,2022.11,Affiliate,London
+2669,2024-12-11,20,2,975.65,Organic Search,North East
+2670,2024-11-22,39,2,884.03,Organic Search,West Midlands
+2672,2024-12-22,9,3,717.12,Direct,London
+2673,2024-12-03,28,3,449.83,Email,London
+2674,2024-12-28,3,2,1531.46,Paid Social,South West
+2675,2024-12-31,0,3,501.16,Direct,London
+2676,2024-08-04,149,4,1258.7,Referral,London
+2678,2024-07-11,173,1,259.67,Email,East of England
+2679,2024-12-07,24,4,1265.55,Organic Search,North West
+2680,2024-09-29,93,2,795.58,Email,West Midlands
+2682,2024-12-29,2,2,574.37,Organic Search,South East
+2683,2024-02-08,327,1,121.97,Paid Social,West Midlands
+2686,2024-08-20,133,1,201.93,Email,North West
+2687,2024-02-23,312,2,179.01,Paid Social,West Midlands
+2688,2024-08-23,130,2,177.03,Organic Search,West Midlands
+2689,2024-12-04,27,1,355.95,Email,Yorkshire
+2690,2024-02-09,326,2,804.45,Organic Search,West Midlands
+2691,2024-11-02,59,2,879.3,Email,South West
+2692,2024-10-04,88,1,323.8,Direct,South East
+2693,2024-10-20,72,2,305.65,Organic Search,West Midlands
+2694,2024-12-09,22,5,1530.5,Paid Social,North West
+2696,2024-12-01,30,4,2683.76,Organic Search,West Midlands
+2697,2023-12-19,378,2,448.39,Paid Social,London
+2698,2024-11-16,45,2,850.6,Email,West Midlands
+2699,2024-12-16,15,5,1819.87,Direct,London
+2700,2024-12-04,27,4,203.6,Referral,North West
+2702,2023-12-26,371,1,106.55,Affiliate,South West
+2703,2024-09-29,93,2,532.63,Paid Social,London
+2705,2024-12-02,29,1,354.27,Referral,North West
+2706,2024-12-21,10,4,1200.56,Direct,London
+2707,2024-12-15,16,1,226.18,Direct,North West
+2708,2024-07-27,157,2,1021.76,Affiliate,East of England
+2709,2024-11-26,35,3,550.04,Organic Search,South East
+2710,2024-12-21,10,3,1168.8,Affiliate,Yorkshire
+2711,2024-10-19,73,1,509.85,Organic Search,London
+2713,2024-12-10,21,5,2117.09,Paid Social,West Midlands
+2714,2024-09-18,104,1,536.06,Paid Social,South East
+2715,2024-10-02,90,1,220.4,Direct,West Midlands
+2717,2024-05-12,233,2,472.74,Referral,North West
+2719,2024-12-13,18,5,1040.18,Email,Scotland
+2720,2024-08-14,139,3,1202.21,Referral,East of England
+2721,2024-11-30,31,2,240.52,Email,London
+2724,2024-12-05,26,1,231.94,Direct,Scotland
+2726,2024-11-26,35,3,826.77,Referral,London
+2727,2024-07-01,183,1,142.36,Organic Search,East of England
+2728,2024-11-28,33,1,66.34,Referral,North West
+2729,2024-12-20,11,1,344.55,Paid Social,East of England
+2731,2024-11-23,38,2,606.78,Affiliate,London
+2732,2024-12-01,30,3,242.37,Organic Search,North West
+2733,2024-10-17,75,5,1321.16,Email,South East
+2734,2024-12-08,23,6,971.39,Organic Search,East of England
+2736,2024-12-05,26,2,277.68,Organic Search,London
+2737,2024-12-19,12,2,491.01,Organic Search,Scotland
+2739,2024-10-11,81,2,307.78,Paid Social,Wales
+2740,2024-11-27,34,1,475.13,Organic Search,North West
+2741,2024-10-02,90,1,147.81,Paid Social,South East
+2743,2024-08-15,138,2,1232.43,Organic Search,West Midlands
+2744,2024-09-01,121,2,259.41,Paid Social,London
+2745,2024-12-04,27,3,828.77,Paid Social,South West
+2746,2023-12-15,382,1,1134.44,Referral,Wales
+2747,2024-12-15,16,8,2039.5,Organic Search,South East
+2748,2024-10-01,91,2,289.11,Paid Social,London
+2749,2023-11-24,403,2,242.75,Paid Social,Wales
+2750,2024-11-27,34,2,283.14,Email,South East
+2751,2024-01-07,359,2,1134.02,Email,South East
+2752,2024-12-11,20,1,478.33,Direct,London
+2754,2024-11-10,51,2,286.07,Organic Search,Scotland
+2755,2024-12-17,14,3,237.61,Paid Social,South East
+2757,2024-12-07,24,2,1179.41,Email,London
+2758,2024-12-30,1,2,294.95,Organic Search,North West
+2759,2024-06-01,213,3,588.1,Paid Social,West Midlands
+2760,2024-12-13,18,4,1033.14,Direct,North West
+2761,2024-11-21,40,7,1631.78,Email,West Midlands
+2763,2024-11-28,33,4,454.08,Organic Search,West Midlands
+2764,2024-04-17,258,1,692.27,Paid Social,South East
+2765,2024-11-17,44,3,2081.22,Paid Social,Wales
+2766,2024-11-09,52,3,1329.29,Email,South East
+2767,2024-12-28,3,4,1486.87,Organic Search,London
+2768,2024-11-29,32,1,270.18,Organic Search,London
+2770,2024-12-02,29,4,907.29,Organic Search,North West
+2771,2024-06-05,209,3,772.05,Direct,London
+2772,2024-11-26,35,4,1184.4,Organic Search,Scotland
+2773,2024-12-13,18,2,749.24,Organic Search,Wales
+2774,2024-07-21,163,6,1212.76,Organic Search,South West
+2777,2024-12-06,25,4,2317.78,Organic Search,Scotland
+2779,2024-12-15,16,9,3160.18,Direct,London
+2780,2024-12-27,4,3,536.75,Paid Social,London
+2781,2024-09-17,105,1,226.7,Organic Search,North West
+2782,2024-05-31,214,7,2281.04,Organic Search,Scotland
+2783,2024-07-29,155,3,853.38,Email,London
+2784,2024-12-12,19,2,904.12,Paid Social,North West
+2785,2024-12-31,0,3,906.45,Affiliate,London
+2786,2024-12-06,25,10,1632.57,Direct,London
+2787,2024-12-28,3,4,1886.22,Paid Social,Scotland
+2788,2024-10-29,63,3,664.76,Organic Search,Wales
+2789,2024-05-20,225,3,377.98,Email,London
+2790,2024-12-23,8,5,393.64,Organic Search,North West
+2791,2024-11-18,43,4,1268.95,Paid Social,Scotland
+2792,2024-12-29,2,5,1484.95,Direct,South West
+2793,2024-11-06,55,1,191.55,Organic Search,London
+2794,2024-03-24,282,2,1289.31,Email,South East
+2795,2024-11-09,52,5,1007.83,Paid Social,West Midlands
+2796,2024-12-02,29,1,839.99,Organic Search,South West
+2797,2024-11-07,54,4,1017.83,Direct,North West
+2799,2024-03-16,290,1,151.37,Paid Social,North West
+2800,2024-11-15,46,5,2447.92,Paid Social,Scotland
+2801,2024-08-02,151,2,218.12,Paid Social,Yorkshire
+2802,2024-12-28,3,4,2402.61,Referral,London
+2803,2024-11-08,53,1,233.86,Paid Social,North West
+2805,2024-11-09,52,1,15.14,Referral,London
+2808,2024-12-26,5,4,743.93,Paid Social,West Midlands
+2809,2024-12-14,17,6,2045.6,Paid Social,South East
+2810,2024-10-18,74,3,1154.49,Paid Social,Yorkshire
+2811,2024-02-17,318,2,307.52,Organic Search,London
+2812,2024-12-23,8,5,674.49,Paid Social,North West
+2813,2023-12-26,371,1,30.51,Paid Social,Yorkshire
+2814,2024-12-02,29,2,208.27,Organic Search,London
+2815,2024-11-26,35,5,3443.72,Organic Search,London
+2816,2024-11-07,54,2,435.07,Organic Search,West Midlands
+2817,2024-11-22,39,3,1187.97,Paid Social,North West
+2818,2024-11-24,37,4,1265.47,Organic Search,London
+2819,2024-04-25,250,1,26.13,Referral,East of England
+2820,2024-11-02,59,2,886.62,Organic Search,Wales
+2822,2024-12-31,0,5,1708.34,Paid Social,West Midlands
+2823,2024-10-15,77,3,1112.44,Email,London
+2824,2024-11-27,34,1,252.06,Direct,West Midlands
+2825,2024-03-26,280,2,476.76,Direct,West Midlands
+2826,2024-12-29,2,7,2522.84,Direct,South East
+2827,2024-07-02,182,2,250.73,Affiliate,North East
+2828,2024-11-14,47,5,1006.56,Direct,London
+2830,2024-07-08,176,2,906.03,Affiliate,North West
+2831,2024-09-28,94,2,681.46,Email,North West
+2832,2024-10-13,79,1,647.41,Paid Social,South West
+2833,2024-12-23,8,9,2895.25,Organic Search,Wales
+2835,2024-09-19,103,2,1605.89,Email,South East
+2836,2024-12-12,19,4,238.84,Affiliate,Scotland
+2837,2024-10-10,82,1,862.92,Email,Wales
+2838,2024-12-13,18,3,881.19,Email,East of England
+2839,2024-12-14,17,1,54.9,Organic Search,South East
+2840,2024-02-03,332,2,460.76,Organic Search,South East
+2841,2024-12-25,6,7,1594.05,Direct,Wales
+2842,2024-10-17,75,4,1156.84,Paid Social,West Midlands
+2843,2024-12-17,14,7,768.27,Organic Search,London
+2844,2024-09-17,105,3,1317.1,Paid Social,Wales
+2845,2024-12-16,15,4,911.99,Direct,Yorkshire
+2846,2024-12-04,27,10,1719.52,Email,South East
+2847,2024-11-25,36,3,582.15,Paid Social,Yorkshire
+2848,2024-12-18,13,1,810.32,Affiliate,London
+2851,2024-10-10,82,1,91.19,Direct,Wales
+2853,2024-11-27,34,3,270.43,Referral,South East
+2854,2024-11-07,54,4,1465.43,Email,Yorkshire
+2856,2024-12-07,24,2,69.01,Email,West Midlands
+2857,2024-11-28,33,3,915.85,Organic Search,West Midlands
+2858,2024-09-06,116,4,1288.4,Paid Social,Wales
+2859,2024-11-19,42,5,801.9,Organic Search,London
+2861,2024-12-07,24,3,892.07,Referral,London
+2862,2024-05-02,243,2,1488.42,Affiliate,London
+2863,2024-12-27,4,3,579.99,Paid Social,London
+2864,2024-11-23,38,2,868.68,Affiliate,Yorkshire
+2865,2024-11-18,43,3,746.53,Paid Social,Wales
+2866,2024-12-14,17,3,619.99,Referral,North West
+2867,2024-12-29,2,2,613.57,Direct,London
+2868,2024-09-29,93,4,1106.08,Organic Search,East of England
+2869,2024-11-13,48,4,881.84,Paid Social,Yorkshire
+2870,2024-12-16,15,1,1742.3,Paid Social,North West
+2871,2024-11-26,35,2,801.26,Direct,London
+2872,2024-11-01,60,1,42.01,Email,Yorkshire
+2874,2024-12-13,18,2,490.25,Paid Social,Scotland
+2875,2024-11-15,46,4,821.55,Affiliate,East of England
+2876,2024-12-16,15,4,684.03,Direct,North West
+2877,2024-09-20,102,2,1022.01,Organic Search,Scotland
+2878,2024-12-24,7,4,1205.38,Organic Search,Scotland
+2879,2024-11-27,34,2,736.55,Paid Social,London
+2880,2024-11-25,36,1,42.07,Direct,West Midlands
+2884,2024-09-07,115,4,1392.13,Email,West Midlands
+2885,2024-01-07,359,1,250.5,Paid Social,Wales
+2886,2024-07-05,179,1,683.07,Referral,Scotland
+2887,2024-12-23,8,5,745.32,Email,North West
+2888,2024-11-24,37,5,651.81,Direct,London
+2890,2024-12-14,17,1,10.68,Affiliate,Wales
+2891,2024-01-07,359,2,572.9,Organic Search,West Midlands
+2892,2024-12-01,30,1,90.0,Direct,London
+2893,2024-11-03,58,1,312.0,Referral,London
+2894,2024-11-28,33,3,1111.85,Paid Social,East of England
+2895,2024-12-06,25,9,2668.99,Email,East of England
+2896,2024-11-23,38,6,1706.27,Direct,Scotland
+2897,2024-12-23,8,2,356.44,Email,East of England
+2899,2024-12-17,14,1,1570.5,Organic Search,Wales
+2900,2024-10-02,90,3,765.68,Organic Search,North West
+2901,2024-10-29,63,1,112.8,Direct,East of England
+2902,2023-08-07,512,1,867.32,Email,Wales
+2903,2024-11-27,34,4,1408.4,Paid Social,West Midlands
+2904,2024-09-08,114,3,888.75,Organic Search,London
+2905,2024-11-27,34,4,723.01,Affiliate,South West
+2906,2024-12-08,23,5,929.08,Email,Wales
+2907,2024-11-25,36,7,1601.41,Email,South East
+2908,2024-12-08,23,4,962.4,Referral,South East
+2909,2024-02-05,330,3,1399.45,Referral,London
+2910,2024-11-26,35,5,1144.9,Paid Social,North West
+2911,2024-06-25,189,3,846.94,Referral,East of England
+2912,2024-12-15,16,2,174.98,Organic Search,West Midlands
+2913,2024-12-25,6,2,1444.75,Affiliate,South East
+2914,2024-10-28,64,3,613.85,Direct,Scotland
+2915,2024-12-08,23,2,100.02,Organic Search,London
+2916,2024-10-09,83,2,407.46,Email,West Midlands
+2917,2024-09-18,104,1,298.83,Paid Social,Scotland
+2919,2024-11-30,31,1,303.48,Paid Social,London
+2920,2024-12-26,5,1,159.04,Paid Social,London
+2921,2024-03-30,276,3,1053.5,Referral,South East
+2922,2024-11-10,51,1,23.94,Organic Search,West Midlands
+2925,2024-03-15,291,3,473.38,Direct,West Midlands
+2926,2024-12-14,17,2,432.63,Organic Search,Wales
+2928,2024-11-12,49,1,201.07,Email,North West
+2929,2024-06-04,210,3,801.29,Organic Search,South East
+2931,2024-11-20,41,9,1428.17,Email,Yorkshire
+2932,2023-12-02,395,3,1110.7,Organic Search,London
+2933,2024-12-19,12,2,254.94,Paid Social,London
+2934,2024-12-10,21,3,1149.67,Organic Search,London
+2935,2023-12-16,381,1,47.2,Referral,East of England
+2937,2024-09-21,101,2,549.9,Affiliate,North East
+2938,2023-08-07,512,1,381.4,Affiliate,Yorkshire
+2939,2024-12-27,4,3,952.31,Affiliate,South East
+2940,2024-07-02,182,3,714.32,Paid Social,North West
+2942,2024-11-30,31,2,285.42,Affiliate,North West
+2944,2024-12-11,20,4,1015.65,Referral,East of England
+2945,2024-12-17,14,1,11.79,Paid Social,South West
+2946,2023-11-26,401,1,70.68,Direct,East of England
+2947,2024-12-15,16,2,1065.81,Organic Search,North West
+2948,2024-11-23,38,2,826.5,Referral,South East
+2949,2024-11-01,60,1,89.73,Organic Search,North East
+2951,2024-12-13,18,5,369.6,Direct,Yorkshire
+2952,2024-11-08,53,1,606.26,Paid Social,Scotland
+2953,2023-12-31,366,2,161.35,Organic Search,Yorkshire
+2954,2024-03-10,296,3,1054.03,Affiliate,North West
+2955,2024-07-19,165,4,1733.56,Paid Social,Wales
+2956,2024-12-18,13,2,1104.1,Organic Search,Scotland
+2957,2024-11-25,36,3,1230.95,Affiliate,East of England
+2959,2024-11-24,37,1,568.88,Organic Search,West Midlands
+2960,2023-12-30,367,2,506.02,Organic Search,Scotland
+2961,2024-12-20,11,1,14.06,Paid Social,West Midlands
+2963,2024-12-28,3,1,31.66,Organic Search,North West
+2964,2024-11-29,32,2,328.88,Organic Search,Wales
+2965,2024-06-06,208,1,513.07,Organic Search,South West
+2966,2024-05-27,218,2,2033.7,Organic Search,Scotland
+2967,2024-12-10,21,2,144.2,Organic Search,North West
+2968,2024-12-12,19,2,1567.77,Direct,West Midlands
+2969,2024-12-14,17,6,647.05,Paid Social,Yorkshire
+2970,2023-11-29,398,3,1214.82,Paid Social,London
+2972,2024-12-27,4,1,125.08,Affiliate,Yorkshire
+2973,2024-10-22,70,1,141.74,Affiliate,Yorkshire
+2974,2024-12-18,13,4,1560.71,Organic Search,Scotland
+2975,2024-11-27,34,6,3024.52,Organic Search,London
+2976,2024-11-22,39,4,257.26,Paid Social,South East
+2977,2024-12-15,16,1,151.64,Email,North East
+2978,2024-07-26,158,1,400.22,Organic Search,London
+2979,2024-11-23,38,5,1045.66,Organic Search,London
+2980,2024-12-07,24,5,2349.68,Referral,Scotland
+2981,2024-06-11,203,1,542.12,Organic Search,East of England
+2982,2024-12-31,0,5,2875.57,Direct,Scotland
+2983,2024-07-03,181,4,1030.66,Paid Social,Wales
+2984,2024-09-15,107,2,644.02,Paid Social,South East
+2985,2024-11-17,44,5,1816.96,Direct,South East
+2986,2023-12-10,387,3,864.18,Direct,Wales
+2988,2024-12-04,27,5,1617.5,Direct,North West
+2989,2024-11-14,47,7,2516.54,Email,Scotland
+2990,2024-10-17,75,3,1206.06,Paid Social,North West
+2991,2024-10-25,67,3,1080.15,Direct,East of England
+2993,2024-12-29,2,3,463.43,Referral,North West
+2994,2024-11-26,35,2,451.11,Paid Social,Wales
+2996,2024-10-10,82,1,7.07,Direct,East of England
+2997,2024-12-09,22,1,22.05,Organic Search,South East
+2998,2024-11-26,35,1,522.02,Organic Search,West Midlands
+2999,2024-12-26,5,2,165.93,Direct,West Midlands
+3000,2024-12-19,12,9,1752.98,Email,South West

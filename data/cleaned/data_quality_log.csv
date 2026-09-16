@@ -1,0 +1,12 @@
+check_name,table_name,rows_affected,rule_description
+duplicate_customer_rows,raw_customers,60,"Exact/near-duplicate rows removed, keeping first occurrence"
+missing_email,clean_customers,120,Blank/whitespace-only emails converted to NULL
+invalid_unit_cost,raw_products,9,Null or negative unit_cost values imputed with category-level median cost
+duplicate_order_rows,raw_orders,77,Exact-duplicate order rows (double-submitted forms) removed
+mixed_date_format,raw_orders,919,order_date strings in DD/MM/YYYY format normalised to ISO 8601
+negative_quantity,raw_order_items,154,Negative quantity values corrected to their absolute value (sign entry error)
+zero_price_line_item,raw_order_items,86,Zero unit_price_at_sale replaced with the product's catalogue unit_price
+final_row_count,clean_customers,3000,Rows remaining after cleaning
+final_row_count,clean_products,155,Rows remaining after cleaning
+final_row_count,clean_orders,7734,Rows remaining after cleaning
+final_row_count,clean_order_items,15343,Rows remaining after cleaning

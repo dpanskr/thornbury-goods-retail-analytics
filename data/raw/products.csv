@@ -1,0 +1,156 @@
+product_id,product_name,category,sub_category,unit_cost,unit_price,launch_date
+1,Portable SSD Mini,Electronics,Portable,193.54,493.29,2023-08-21
+2,Gaming Mouse Pro,Electronics,Gaming,157.62,481.63,2024-10-11
+3,Wireless Earbuds,Electronics,Wireless,86.71,240.99,2023-07-24
+4,Wireless Earbuds Classic,Electronics,Wireless,54.69,162.07,2023-04-13
+5,4K Monitor Classic,Electronics,4K,84.22,220.53,2024-04-26
+6,Wireless Earbuds V2,Electronics,Electronics - General,76.59,250.84,2024-06-19
+7,Smart Plug,Electronics,Electronics - General,314.18,796.4,2024-04-02
+8,Laptop Stand,Electronics,Electronics - General,123.5,329.0,2023-02-09
+9,Smart Plug Plus,Electronics,Electronics - General,79.27,223.81,2023-04-18
+10,Laptop Stand,Electronics,Electronics - General,188.76,644.92,2024-09-09
+11,Phone Charger Classic,electronics,Phone,,61.72,2023-05-06
+12,Phone Charger V2,Electronics,Electronics - General,160.57,380.26,2023-02-23
+13,Bluetooth Speaker Mini,Electronics,Bluetooth,112.66,380.99,2023-05-24
+14,Phone Charger Plus,Electronics,Phone,215.99,553.92,2024-02-05
+15,Phone Charger Pro,Electronics,Electronics - General,128.64,320.75,2024-09-19
+16,Wireless Earbuds,Electronics,Electronics - General,251.77,606.32,2024-04-26
+17,Tablet Pro,Electronics,Tablet,107.33,295.68,2023-10-12
+18,Noise-Cancelling Headphones Plus,Electronics,Electronics - General,103.06,290.77,2024-10-15
+19,Noise-Cancelling Headphones Mini,Electronics,Electronics - General,130.35,401.81,2024-07-18
+20,Bluetooth Speaker V2,Electronics,Bluetooth,111.41,333.2,2023-07-07
+21,Laptop Stand Mini,Electronics,Laptop,24.88,56.83,2024-06-13
+22,4K Monitor Pro,Electronics,4K,94.98,230.32,2023-09-10
+23,Storage Ottoman Pro,Home & Kitchen,Home & Kitchen - General,,39.61,2024-04-10
+24,Non-Stick Pan Set Plus,Home & Kitchen,Home & Kitchen - General,33.98,67.78,2023-02-19
+25,Stand Mixer Mini,Home & Kitchen,Stand,93.25,233.79,2024-05-14
+26,Table Lamp Classic,Home & Kitchen,Table,39.08,90.24,2024-10-29
+27,Table Lamp Pro,Home & Kitchen,Home & Kitchen - General,53.12,106.78,2024-01-11
+28,Table Lamp,Home & Kitchen,Table,81.6,206.97,2023-01-24
+29,Storage Ottoman Mini,Home & Kitchen,Storage,8.43,17.14,2024-07-28
+30,Bedding Set Pro,Home & Kitchen,Bedding,39.22,79.65,2024-02-13
+31,Blender Classic,Home & Kitchen,Blender,104.8,216.48,2023-08-07
+32,Memory Foam Pillow V2,Home & Kitchen,Memory,9.63,19.56,2024-05-30
+33,Knife Block Set,home & kitchen,Knife,121.5,222.98,2024-04-21
+34,Storage Ottoman V2,Home & Kitchen,Storage,7.42,15.6,2023-12-06
+35,Bedding Set V2,Home & Kitchen,Home & Kitchen - General,59.31,144.97,2023-01-28
+36,Blender Pro,Home & Kitchen,Blender,56.22,113.52,2023-11-29
+37,Table Lamp Pro,Home & Kitchen,Table,17.3,35.04,2023-04-24
+38,Memory Foam Pillow Pro,Home & Kitchen,Home & Kitchen - General,70.44,140.19,2023-06-15
+39,Non-Stick Pan Set Pro,home & kitchen,Non-Stick,85.76,234.45,2023-09-02
+40,Coffee Maker Pro,Home & Kitchen,Coffee,125.11,237.48,2024-05-21
+41,Air Fryer Mini,home & kitchen,Air,44.35,85.33,2024-02-14
+42,Table Lamp,Home & Kitchen,Home & Kitchen - General,86.95,191.89,2023-04-24
+43,Coffee Maker V2,home & kitchen,Coffee,89.84,245.25,2024-01-21
+44,Stand Mixer,Home & Kitchen,Stand,72.99,146.87,2024-02-09
+45,Air Fryer V2,Home & Kitchen,Air,45.67,115.22,2024-01-15
+46,Knife Block Set V2,Home & Kitchen,Home & Kitchen - General,35.78,83.21,2023-08-02
+47,Knife Block Set Classic,home & kitchen,Home & Kitchen - General,121.81,221.9,2024-06-11
+48,Leather Wallet Classic,Fashion,Fashion - General,8.43,14.81,2024-07-07
+49,Leather Wallet Mini,Fashion,Fashion - General,72.24,129.79,2023-04-26
+50,Ankle Boots Pro,Fashion,Fashion - General,10.13,19.23,2024-10-18
+51,Wool Jumper Pro,Fashion,Fashion - General,48.57,102.05,2023-06-26
+52,Graphic T-Shirt,Fashion,Fashion - General,61.34,114.31,2024-08-20
+53,Baseball Cap Pro,Fashion,Fashion - General,86.27,147.2,2024-02-02
+54,Running Trainers Plus,Fashion,Fashion - General,52.65,82.88,2023-12-07
+55,Denim Jacket Plus,Fashion,Fashion - General,77.71,145.08,2024-03-01
+56,Ankle Boots Classic,Fashion,Fashion - General,13.06,24.94,2023-05-09
+57,Denim Jacket,Fashion,Denim,55.31,110.41,2023-05-11
+58,Wool Jumper Pro,Fashion,Fashion - General,66.47,145.14,2024-06-26
+59,Summer Dress,Fashion,Fashion - General,60.67,111.55,2023-01-31
+60,Wool Scarf Pro,fashion,Fashion - General,22.82,41.09,2024-05-14
+61,Denim Jacket Classic,Fashion,Denim,68.67,129.98,2023-03-30
+62,Wool Jumper Classic,Fashion,Fashion - General,29.29,64.8,2024-07-11
+63,Wool Jumper Classic,Fashion,Wool,40.83,67.72,2023-04-15
+64,Denim Jacket V2,Fashion,Fashion - General,54.56,120.88,2024-05-25
+65,Wool Jumper Plus,Fashion,Wool,78.47,124.79,2024-08-30
+66,Chino Trousers Mini,Fashion,Fashion - General,14.3,25.46,2023-03-08
+67,Ankle Boots V2,Fashion,Ankle,41.14,80.75,2023-08-23
+68,Wool Jumper Mini,Fashion,Wool,21.6,45.49,2023-02-23
+69,Running Trainers Plus,Fashion,Fashion - General,91.92,144.41,2023-04-22
+70,Wool Scarf V2,Fashion,Wool,34.24,68.49,2023-11-01
+71,Graphic T-Shirt,Fashion,Fashion - General,57.01,125.14,2024-08-04
+72,Ankle Boots V2,Fashion,Fashion - General,34.35,53.35,2023-12-15
+73,Wool Jumper Classic,Fashion,Fashion - General,7.15,14.97,2023-03-30
+74,Summer Dress Mini,fashion,Fashion - General,9.1,15.21,2024-06-06
+75,Wool Scarf Pro,Fashion,Wool,44.43,89.37,2024-03-17
+76,Baseball Cap Classic,Fashion,Fashion - General,43.89,83.59,2024-05-27
+77,Wool Scarf Classic,Fashion,Fashion - General,8.67,17.17,2024-01-16
+78,SPF 50 Sunscreen Classic,Beauty,Beauty - General,9.97,19.84,2023-02-19
+79,Vitamin C Serum V2,Beauty,Beauty - General,4.44,7.08,2024-06-28
+80,Facial Cleanser Plus,Beauty,Beauty - General,,76.4,2024-03-09
+81,Hyaluronic Moisturiser Classic,Beauty,Beauty - General,5.36,9.54,2023-12-20
+82,Vitamin C Serum Mini,beauty,Vitamin,15.18,22.28,2024-01-06
+83,Vitamin C Serum Pro,Beauty,Beauty - General,16.26,27.76,2024-05-12
+84,Perfume 50ml Plus,Beauty,Beauty - General,,57.76,2024-09-04
+85,Hyaluronic Moisturiser Pro,Beauty,Beauty - General,,19.97,2024-06-16
+86,Hyaluronic Moisturiser Plus,Beauty,Hyaluronic,6.43,10.93,2024-06-05
+87,Electric Shaver Classic,Beauty,Electric,9.0,17.24,2023-03-10
+88,Electric Shaver,beauty,Electric,,69.33,2023-10-12
+89,SPF 50 Sunscreen Mini,Beauty,SPF,25.67,45.99,2023-06-09
+90,Perfume 50ml Plus,Beauty,Perfume,46.05,85.84,2024-03-21
+91,Facial Cleanser,Beauty,Beauty - General,39.56,63.66,2023-06-04
+92,Hair Dryer Plus,Beauty,Beauty - General,53.08,88.28,2024-07-27
+93,SPF 50 Sunscreen,Beauty,Beauty - General,23.88,45.11,2023-04-03
+94,Facial Cleanser Classic,Beauty,Facial,5.21,8.81,2023-01-29
+95,Vitamin C Serum Pro,Beauty,Beauty - General,37.72,61.42,2024-01-01
+96,Vitamin C Serum Plus,Beauty,Beauty - General,50.35,72.89,2024-01-27
+97,Facial Cleanser Plus,Beauty,Beauty - General,37.95,64.56,2023-10-19
+98,Adjustable Dumbbells Mini,Sports & Outdoors,Adjustable,94.17,200.09,2023-07-31
+99,Resistance Bands Set Pro,Sports & Outdoors,Resistance,104.06,266.33,2024-04-09
+100,Insulated Water Bottle V2,Sports & Outdoors,Insulated,,96.15,2023-02-26
+101,Insulated Water Bottle Classic,Sports & Outdoors,Sports & Outdoors - General,105.57,207.07,2023-07-03
+102,Cycling Helmet Mini,Sports & Outdoors,Cycling,97.91,214.72,2023-08-21
+103,Adjustable Dumbbells Plus,Sports & Outdoors,Sports & Outdoors - General,47.61,120.36,2024-10-24
+104,Yoga Mat Pro,Sports & Outdoors,Sports & Outdoors - General,110.71,279.77,2024-10-30
+105,Adjustable Dumbbells V2,Sports & Outdoors,Adjustable,74.84,140.94,2023-10-26
+106,Yoga Mat,Sports & Outdoors,Sports & Outdoors - General,59.61,135.15,2024-06-09
+107,Camping Tent 2-Person,Sports & Outdoors,Camping,139.03,289.62,2024-02-09
+108,Resistance Bands Set Classic,Sports & Outdoors,Sports & Outdoors - General,103.95,269.29,2024-01-27
+109,Adjustable Dumbbells V2,Sports & Outdoors,Sports & Outdoors - General,19.71,48.6,2024-10-31
+110,Cycling Helmet Classic,Sports & Outdoors,Sports & Outdoors - General,103.9,212.17,2023-06-11
+111,Cycling Helmet Plus,Sports & Outdoors,Sports & Outdoors - General,133.36,292.99,2024-07-02
+112,Resistance Bands Set,Sports & Outdoors,Sports & Outdoors - General,43.39,96.28,2024-07-08
+113,Adjustable Dumbbells,Sports & Outdoors,Adjustable,67.07,124.11,2024-08-21
+114,Camping Tent 2-Person,Sports & Outdoors,Sports & Outdoors - General,107.39,235.59,2023-03-09
+115,Hiking Backpack,Sports & Outdoors,Sports & Outdoors - General,82.38,184.48,2023-05-23
+116,Children's Picture Book Classic,Books & Media,Books & Media - General,2.6,5.46,2023-07-13
+117,Cookbook,Books & Media,Books & Media - General,7.0,13.03,2024-01-19
+118,Self-Help Guide Pro,Books & Media,Books & Media - General,3.39,6.76,2023-05-09
+119,Bestselling Novel,Books & Media,Bestselling,6.01,12.62,2023-08-08
+120,Self-Help Guide Pro,Books & Media,Self-Help,7.64,14.88,2023-08-16
+121,Children's Picture Book,Books & Media,Children's,22.24,39.54,2023-01-12
+122,Bestselling Novel V2,Books & Media,Bestselling,16.21,34.97,2024-05-16
+123,Graphic Novel Mini,Books & Media,Graphic,8.58,14.82,2024-07-02
+124,Cookbook V2,Books & Media,Books & Media - General,,14.38,2023-10-30
+125,Self-Help Guide Pro,Books & Media,Self-Help,18.72,34.17,2023-05-05
+126,Cookbook Classic,Books & Media,Books & Media - General,3.04,6.6,2024-04-24
+127,Children's Picture Book,Books & Media,Books & Media - General,20.67,39.79,2023-01-01
+128,Bestselling Novel Classic,Books & Media,Books & Media - General,3.52,6.97,2024-09-28
+129,Puzzle Book Mini,Books & Media,Books & Media - General,19.85,35.47,2023-11-24
+130,Self-Help Guide,Books & Media,Self-Help,17.64,39.14,2023-03-31
+131,Building Blocks Set Pro,Toys & Games,Building,42.19,76.36,2023-02-04
+132,Building Blocks Set V2,Toys & Games,Toys & Games - General,45.93,85.2,2023-05-04
+133,Remote Control Car Classic,Toys & Games,Toys & Games - General,9.89,19.37,2024-08-30
+134,Plush Toy Classic,Toys & Games,Plush,12.04,20.31,2023-12-09
+135,Plush Toy Pro,Toys & Games,Plush,10.68,22.68,2024-04-22
+136,Building Blocks Set Pro,Toys & Games,Building,54.35,114.6,2024-09-23
+137,Remote Control Car Classic,Toys & Games,Remote,26.14,48.28,2024-06-19
+138,Building Blocks Set Pro,toys & games,Building,5.64,13.12,2023-07-30
+139,Puzzle 1000pc Pro,Toys & Games,Puzzle,26.22,60.81,2024-08-26
+140,Art & Craft Kit V2,Toys & Games,Toys & Games - General,14.84,25.02,2024-05-11
+141,Art & Craft Kit Classic,Toys & Games,Toys & Games - General,20.48,45.38,2023-07-20
+142,Building Blocks Set Pro,Toys & Games,Toys & Games - General,40.73,70.17,2023-10-19
+143,Puzzle 1000pc Pro,Toys & Games,Toys & Games - General,27.44,58.66,2024-08-08
+144,Puzzle 1000pc,toys & games,Puzzle,61.28,104.01,2023-12-19
+145,Puzzle 1000pc Classic,Toys & Games,Puzzle,15.29,30.44,2023-08-02
+146,Organic Coffee Beans,Grocery,Organic,6.36,14.99,2024-07-16
+147,Dark Chocolate Bar Plus,Grocery,Dark,-11.12,25.1,2024-02-16
+148,Organic Coffee Beans Pro,Grocery,Grocery - General,6.03,15.48,2024-08-16
+149,Dark Chocolate Bar Pro,Grocery,Grocery - General,1.4,4.65,2024-07-05
+150,Olive Oil 1L V2,Grocery,Olive,4.46,13.21,2023-06-28
+151,Organic Coffee Beans,Grocery,Grocery - General,5.66,17.05,2023-09-01
+152,Granola Pack,Grocery,Granola,8.65,24.07,2024-08-20
+153,Protein Bar Box Classic,Grocery,Protein,5.46,14.95,2023-06-28
+154,Herbal Tea Selection Plus,Grocery,Grocery - General,9.91,24.82,2023-05-14
+155,Protein Bar Box Pro,Grocery,Grocery - General,5.14,14.08,2024-01-06
