@@ -1,0 +1,4 @@
+model,roc_auc,avg_precision,brier,top10_capture
+Category baseline,0.683,0.12,0.06,0.249
+Logistic regression,0.688,0.127,0.06,0.258
+Gradient boosting,0.682,0.127,0.061,0.237

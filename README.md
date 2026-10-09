@@ -30,7 +30,8 @@ Python (pandas, numpy, matplotlib, Faker) for generation and analysis. SQLite fo
 ├── python/
 │   ├── generate_data.py
 │   ├── load_to_sqlite.py
-│   └── eda.py
+│   ├── eda.py
+│   └── ml_return_model.py
 └── charts/
     └── *.png
 ```
@@ -69,11 +70,12 @@ The generator injects the kind of problems a real export has, and the SQL cleani
 3. `python/eda.py` reads the cleaned CSVs and writes the charts to `charts/`.
 
 ```bash
-pip install pandas numpy matplotlib Faker
+pip install pandas numpy matplotlib Faker scikit-learn
 cd python
 python3 generate_data.py
 python3 load_to_sqlite.py
 python3 eda.py
+python3 ml_return_model.py
 ```
 
 Random seeds are fixed throughout, so re-running the pipeline reproduces the same data and the same charts.
@@ -117,6 +119,29 @@ A few more cuts of the data live in `charts/` but aren't embedded above, to keep
 | Worst paid channel (revenue per £1 spend) | Paid Social, £3.63 |
 | Revenue share from top 5% of customers | 17% |
 
+## Return prediction model
+
+`python/ml_return_model.py` predicts whether a line item will be returned, using only what's known at checkout: category, price, discount, payment method, basket size, customer tenure and the customer's past returns. I left `order_status` out because "Partially Returned" is only known after the return happens, so it would leak the answer.
+
+The model trains on Jan 2023 - Jun 2024 (6,924 items) and is tested on Jul - Dec 2024 (7,969 items). Splitting by date rather than randomly is closer to how it would actually be used.
+
+| Model | ROC AUC | Avg. precision | Returns caught in riskiest 10% |
+|---|---|---|---|
+| Random guess | 0.500 | 0.067 | 10% |
+| Category baseline | 0.683 | 0.120 | 25% |
+| Logistic regression | 0.688 | 0.127 | 26% |
+| Gradient boosting | 0.682 | 0.127 | 24% |
+
+**Flagging the riskiest 10% of items catches about a quarter of all returns**, roughly 2.5x better than random. Permutation importance shows nearly all of that comes from product category.
+
+![Return model feature importance](charts/10_return_model_feature_importance.png)
+
+**Logistic regression and gradient boosting barely beat the simple category baseline, which is what I expected.** The generator sets return probability by category only, so there's no other real signal to find. Since those rates are known, I could check the predictions against them, and they line up closely. On real data, things like sizing and review scores would also affect returns, which is where the extra features should start to help.
+
+![Predicted vs actual return rate](charts/11_return_model_by_category.png)
+
+In practice this could be used to target return-reduction work (size guides, better product photos) at high-risk items, starting with Fashion.
+
 ## Limitations
 
 Worth being upfront about, since these directly affect how far you should trust the "findings" above:
@@ -125,7 +150,7 @@ Worth being upfront about, since these directly affect how far you should trust 
 - Marketing spend is monthly and channel-level only. A real attribution analysis would use campaign-level spend and proper multi-touch attribution instead of crediting all of a customer's lifetime revenue to their original acquisition channel.
 - Product demand doesn't model basket effects (e.g. Home & Kitchen buyers being more likely to also buy Grocery).
 
-Possible extensions: a churn model on the RFM features in `vw_customer_rfm`, or a revenue forecast from the monthly trend view.
+Possible extensions: a churn model on the RFM features in `vw_customer_rfm` (this needs the generator to model customer loyalty first, see above), or a revenue forecast from the monthly trend view.
 
 ---
 
